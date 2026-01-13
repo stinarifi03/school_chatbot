@@ -1,0 +1,1500 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # EPOKA University Regulations Documentation\
+\
+## \uc0\u55357 \u56538  Overview of University Regulations\
+\
+This document provides a comprehensive summary of key regulations governing EPOKA University's academic and administrative operations. The regulations cover research centers, study programs, scientific research, publications, permissions, and doctoral studies.\
+\
+---\
+\
+## \uc0\u55357 \u56523  Table of Contents\
+\
+1. [Regulation on the Center for European Studies (EUCES)](#1-regulation-on-the-center-for-european-studies-euces)\
+2. [Regulation on Second Cycle Study Programs](#2-regulation-on-second-cycle-study-programs)\
+3. [Regulation on Scientific Research](#3-regulation-on-scientific-research)\
+4. [Regulation on Publications](#4-regulation-on-publications)\
+5. [Regulation on Permissions](#5-regulation-on-permissions)\
+6. [Regulation on PhD Study Programs](#6-regulation-on-phd-study-programs)\
+\
+---\
+\
+## 1. Regulation on the Center for European Studies (EUCES)\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-REG-009-EN\
+- **Publication Date:** 14.09.2007\
+- **Pages:** 3\
+\
+### \uc0\u55356 \u57263  Purpose and Scope\
+- **Purpose:** Defines purpose, activities, governing bodies, tasks, and basic working methods of EUCES\
+- **Scope:** Covers provisions on activities, administrative bodies, powers, and decision-making methods\
+- **Legal Basis:** Statute of Epoka University\
+\
+### \uc0\u55357 \u56523  Key Definitions\
+| Term | Definition |\
+|------|------------|\
+| University | Epoka University |\
+| Rector | Rector of Epoka University |\
+| Center | Center on European Studies (EUCES) |\
+| Director | Director of the Center |\
+| Board Directors | Administrative Board of the Center |\
+| Advisory Board | Advisory Board of the Center |\
+\
+### \uc0\u55356 \u57314  Field of Activity\
+The Center's activities include:\
+- Research, analysis, implementation, and development in:\
+  - EU law, institutions, and policies\
+  - Integration of non-EU countries\
+  - European politics, economics, history, and society\
+- Cooperation with national/international organizations\
+- Organization of conferences, congresses, and scientific meetings\
+- Special courses for civil servants, academics, business, and civil community\
+- Master and PhD programs\
+- Consulting services for public/private organizations\
+- Publication of "EUCES" international journal\
+- Other duties assigned by the Rector\
+\
+### \uc0\u55357 \u56421  Administrative Structure\
+#### Director\
+- **Appointment:** By Rector for 3 years (renewable)\
+- **Deputy:** May be appointed with Rector's approval\
+- **Vacancy:** New Director appointed if position vacant for 3 months\
+\
+#### Director's Duties\
+1. Chair Administrative and Advisory Boards\
+2. Represent the Center\
+3. Prepare work programs and activity reports\
+4. Collaborate with scientific institutions\
+5. Submit research results for Rector's approval\
+6. Carry out other duties charged by Rector\
+\
+#### Administrative Board\
+- **Composition:** 4 internal academic staff + Director\
+- **Appointment:** By Rector for 3 years (renewable once)\
+- **Meetings:** At least 2 times monthly\
+- **Decision:** Absolute majority required\
+\
+#### Administrative Board Duties\
+1. Determine Center's principles and work organization\
+2. Evaluate appointed members\
+3. Evaluate work programs and annual reports\
+4. Decide on research, publications, and educational issues\
+5. Form working groups/projects\
+6. Decide on scientific and cultural activities\
+\
+#### Advisory Board\
+- **Composition:** Minimum 7 specialists\
+- **Appointment:** Elected by Administrative Board for 3 years\
+- **Meetings:** At least once every 6 months\
+- **Decision:** Absolute majority required\
+\
+#### Advisory Board Duties\
+1. Help increase efficiency and productivity\
+2. Make recommendations on new ideas and views\
+3. Provide opinion on research and work strategy\
+\
+### \uc0\u55357 \u56508  Personnel and Finance\
+- **Personnel:** Academic, administrative, and technical staff appointed by Rector\
+- **Financing:** Financial management under Rector's competence\
+\
+### \uc0\u55357 \u56517  Implementation\
+- **Entry into Force:** Date of publication\
+- **Implementation:** Ensured by Rector\
+\
+---\
+\
+## 2. Regulation on Second Cycle Study Programs\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-REG-017-EN\
+- **Effective Date:** 15.12.2008\
+- **Latest Amendment:** 06.03.2025\
+- **Pages:** 22\
+\
+### \uc0\u55356 \u57263  General Provisions\
+- **Objective:** Defines functioning, relationships, objectives, structure, rights, obligations, and sanctions\
+- **Legal Basis:** Law 80/2015 and University Statute\
+- **Aim:** Determine mission, objectives, establishment, organization, and management\
+\
+### \uc0\u55357 \u56523  Definitions\
+| Term | Definition |\
+|------|------------|\
+| University | EPOKA University |\
+| Rector | Rector of EPOKA University |\
+| The Senate | Academic Senate of EPOKA University |\
+| Department | Basic unit under the Faculty |\
+| Credits | Course Credits according to American System |\
+| ECTS | European System of Accumulating and Transferring Credits |\
+| TOEFL | Test of English as a Foreign Language |\
+| IELTS | International English Language Testing System |\
+| CGPA | Cumulative Grade Point Average |\
+\
+### \uc0\u55356 \u57235  Study Program Structure\
+| Program Type | Duration | ECTS |\
+|-------------|----------|------|\
+| Master of Science | 2 years (4 semesters) | 120 |\
+| Professional Master | 1 year (2 semesters) | 60 |\
+| Integrated Second Cycle | 5 years (10 semesters) | 300 |\
+\
+### \uc0\u55356 \u57307  Organization and Management\
+#### Scientific Committee\
+- **Composition:** \uc0\u8805 3 PhD holders\
+- **Responsibilities:**\
+  - Organize study programs\
+  - Elect Program Coordinator\
+  - Designate academic/administrative personnel\
+  - Prepare development strategy and study plans\
+  - Prepare annual reports\
+\
+#### Academic Personnel\
+- **Requirements:** At least PhD degree\
+- **Rights:**\
+  - Use institution's equipment and infrastructure\
+  - Participate in committees and activities\
+  - Get qualified through existing projects\
+- **Obligations:**\
+  - Implement regulations\
+  - Collaborate with colleagues and students\
+  - Achieve study program requirements\
+  - Fulfill thesis obligations\
+  - Evaluate students professionally and timely\
+\
+#### Department Coordinator Duties\
+1. Collaborate with Head of Department\
+2. Perform technical setup for meetings\
+3. Assist with material preparation\
+4. Receive mail and materials\
+5. Archive documentation\
+6. Type/print memos and documents\
+7. Track study process pace\
+8. Announce schedules and activities\
+\
+#### Registrar's Office Duties\
+1. Perform registration for new students\
+2. Provide IDs and handle paperwork\
+3. Prepare assessment reports\
+4. Take over completed reports\
+5. Give assessment information\
+6. Transfer grades and prepare diplomas\
+7. Maintain relationships with Dean's office and Scientific Committee\
+\
+### \uc0\u55356 \u57104  Language Requirements\
+- **Primary Language:** English\
+- **Exception:** Integrated law program offered in English and Albanian\
+\
+### \uc0\u55357 \u56541  Admission Requirements\
+#### General Criteria\
+- First or Second Cycle Diploma\
+- Minimum CGPA determined by Decanate\
+- English proficiency:\
+  - MSc: Level B2 (CEFR)\
+  - Professional Master: Level B1 (CEFR)\
+\
+#### English Proficiency Tests Accepted\
+- Cambridge\
+- IELTS\
+- TOEFL (iBT/ITP)\
+- TOEIC\
+- GESE\
+- APTIS\
+- **Exemption:** University studies completed in English\
+\
+#### Admission Assessment\
+- Based on:\
+  - University study results\
+  - Foreign language examination\
+  - Interview/special skills test\
+  - Reference letters\
+  - Short essay on study reasons\
+- **Missing Credits:** Up to 60 ECTS can be completed via adaptation courses\
+- **Credit Recognition:** Up to 40 credits from previous activities\
+\
+### \uc0\u55357 \u56523  Registration Requirements\
+#### Required Documents\
+1. Completed application\
+2. Notarized diploma copy\
+3. Official transcript\
+4. English proficiency proof\
+5. ID card copy (passport for foreigners)\
+6. Bank receipt for tuition\
+7. 2 photos (4.5x6 cm)\
+\
+#### Student Status\
+- Granted upon registration\
+- Ends with: diploma, termination, expulsion\
+- **Contract:** Study contract signed with University\
+\
+### \uc0\u55357 \u56424 \u8205 \u55356 \u57323  Academic Advisors\
+- **Appointment:** By Scientific Committee\
+- **Qualifications:** Lecturer with PhD degree\
+- **Duties:**\
+  - Consult on course selection\
+  - Assist students with missing credits\
+  - Provide career guidance\
+  - Approve course registration\
+\
+### \uc0\u55357 \u56538  Attendance Requirements\
+- **Lectures:** \uc0\u8805 60% attendance\
+- **Practice/Seminars:** \uc0\u8805 75% attendance\
+- **Laboratories:** \uc0\u8805 75% attendance\
+- **Non-compliance:** Reported monthly to Department Coordinator\
+- **Failed Courses:** Attendance not required for retakes\
+\
+### \uc0\u9203  Duration and Registration\
+#### Study Duration\
+| Program Type | Normal Duration | Maximum Duration |\
+|-------------|-----------------|------------------|\
+| MSc | 2 years (4 semesters) | 4 years (8 semesters) |\
+| Professional Master | 1 year (2 semesters) | 2 years (4 semesters) |\
+| Integrated Second Cycle | 5 years (10 semesters) | 10 years (20 semesters) |\
+\
+#### Course Registration\
+- **Timing:** Before each semester per academic calendar\
+- **Requirement:** Tuition payment completed\
+- **Approval:** Required from academic advisor\
+- **Maximum Load:** 45 ECTS per semester\
+- **Consequences:** Cannot attend classes/exams without registration\
+\
+### \uc0\u55357 \u56580  Transfers\
+- **Quotas:** Determined by Scientific Committee\
+- **Requirements:**\
+  - Complete at least one semester at EPOKA\
+  - Apply within academic calendar timeframe\
+  - Approval by Scientific Committee and Decanate\
+\
+### \uc0\u55357 \u56517  Academic Year Structure\
+- **Semesters:** Fall and Spring (14 weeks + 2 exam weeks)\
+- **Summer Semester:** Optional, requires approval\
+- **Holidays:** No classes/exams on official holidays\
+- **Weekend Classes:** Possible with Academic Senate approval\
+\
+### \uc0\u55357 \u56534  Educational Process\
+#### Course Structure\
+- **MSc:** 10-14 courses + thesis\
+- **Professional Master:** 7-8 courses + microthesis\
+- **Activities:** Lectures, projects, labs, practice, seminars\
+\
+#### Credit Systems\
+- **American System:** Measures auditorium work only\
+- **ECTS:** Measures total coursework including individual study\
+- **Minimum:** 60 ECTS per academic year\
+\
+### \uc0\u55357 \u56541  Examination Procedures\
+#### Exam Rights\
+- **Prerequisite:** All financial liabilities redeemed\
+- **Denial:** For unredeemed financial obligations\
+\
+#### Exam Process\
+- **Schedule:** Announced at least 4 weeks in advance\
+- **Format:** Normally written, verbal exams possible\
+- **Evaluation:** By course lecturer(s)\
+- **Absence:** Head of Department assigns substitute examiner\
+\
+#### Result Announcement\
+- **Timing:** Per academic calendar\
+- **Grade Appeal:** Within 5 days of announcement\
+- **Appeal Process:** Reviewed by lecturer, finalized by Decanate within 15 days\
+\
+### \uc0\u55357 \u56522  Assessment and Grading\
+#### Letter Grades\
+| Grade | Coefficient | Points | Albanian System | Status |\
+|-------|------------|--------|-----------------|---------|\
+| AA | 4.00 | 90-100 | 10 | Excellent |\
+| BA | 3.50 | 85-89 | 9 | Excellent |\
+| BB | 3.00 | 80-84 | 8 | Successful |\
+| CB | 2.50 | 75-79 | 8 | Successful |\
+| CC | 2.00 | 70-74 | 7 | Successful |\
+| DC | 1.50 | 65-69 | 6 | In Probation |\
+| DD | 1.00 | 60-64 | 5 | In Probation |\
+| FD | 0.50 | 50-59 | 4 | Not Passed |\
+| FF | 0.00 | 00-49 | 0 | Not Passed |\
+| NA | 0.00 | 00-00 | 0 | Absences in Courses |\
+\
+#### Special Grades\
+| Grade | Meaning | Affects CGPA |\
+|-------|---------|--------------|\
+| I | Incomplete | Yes (converts to FF if not completed) |\
+| S | Satisfactory | No |\
+| T | Transfer | Depends on context |\
+| U | Unsatisfactory | No |\
+| P | Progressive | No |\
+| EX | Exempt | No |\
+| NI | Not Included | No |\
+| NA | Not Attended | Yes (considered as FF) |\
+\
+#### Passing Requirements\
+- **Course:** CC or higher\
+- **Compulsory Course Failure:** Must repeat course\
+- **Elective Course Failure:** Can take different elective\
+- **Program Completion:** Pass all courses, CGPA \uc0\u8805 2.00, no FD/FF\
+- **Thesis Eligibility (MSc):** CGPA \uc0\u8805 2.00, no FD/FF by end of 3rd semester\
+\
+### \uc0\u55356 \u57235  Thesis Requirements\
+#### MSc Thesis\
+- **Start:** After completing all courses (except professional practice)\
+- **Defense:** After passing professional practice course\
+- **Timing:** 4th semester\
+\
+#### Professional Master Microthesis\
+- **Start:** 2nd semester\
+- **Evaluation:** Graded with ECTS credits\
+\
+#### Thesis Procedures\
+- **Supervisor Appointment:** By end of respective semester\
+- **Topic Assignment:**\
+  - Professional Master: By end of 1st semester\
+  - MSc: By end of 3rd semester\
+- **Registration:**\
+  - MSc: Beginning of 4th semester\
+  - Professional Master: Beginning of 2nd semester\
+- **Supervisor Qualifications:** At least PhD degree\
+\
+#### Thesis Defense\
+- **Jury:** \uc0\u8805 3 members + substitute\
+- **Defense Duration:** 45-90 minutes\
+- **Voting:** Closed doors, majority decision\
+- **Possible Outcomes:**\
+  - Accepted as is\
+  - Accepted with minor corrections (30 days for submission)\
+  - Conditionally accepted with major corrections (next regular semester for completion)\
+  - Failed (new topic required)\
+\
+### \uc0\u55357 \u56520  GPA Calculations\
+#### Semester GPA\
+- Formula: \uc0\u931 (Grade \'d7 Credits) / Total Credits\
+- Courses: Only current semester\
+\
+#### Cumulative GPA\
+- Formula: \uc0\u931 (Grade \'d7 Credits) / Total Credits\
+- Courses: All completed courses\
+- Rounding: To two decimal places\
+\
+### \uc0\u55356 \u57286  Honors and High Achievers\
+#### Honors Lists\
+- **Honors:** CGPA 3.00-3.49\
+- **High Honors:** CGPA 3.50-4.00\
+- **Timing:** End of each semester\
+\
+#### High-Achieving Students\
+- **Eligibility:** Successful completion of all previous courses\
+- **Advanced Courses:**\
+  - CGPA \uc0\u8805 3.00: One course from following year\
+  - CGPA \uc0\u8805 3.50: Two courses from following year\
+- **Approval:** Required from advisor\
+\
+### \uc0\u55357 \u56541  Additional Exams\
+#### Eligibility\
+- **Professional Master:** One failed course preventing graduation\
+- **MSc:** One failed course preventing thesis start\
+- **Integrated Second Cycle:** Max 2 failed courses or CGPA <2.00 with no failed courses\
+\
+#### Conditions\
+- **Grades Eligible:** FF, FD, DD, DC\
+- **Attempts:** Maximum 3 times\
+- **Fees:** Free first attempt, fees for subsequent attempts\
+- **CGPA Calculation:** Last grade received is valid\
+\
+### \uc0\u55356 \u57235  Graduation Requirements\
+- **MSc:** Complete required credits + thesis (120 ECTS)\
+- **Professional Master:** Complete required credits + microthesis (60 ECTS)\
+- **General:** CGPA \uc0\u8805 2.00, no FD/FF grades\
+\
+### \uc0\u55357 \u56424 \u8205 \u55356 \u57235  Student Rights\
+1. Clear and justifiable rules and procedures\
+2. Protection from discrimination\
+3. Access to academic information\
+4. Use of institution's equipment, library, and internet\
+5. Freedom of expression\
+6. Participation in program evaluation\
+\
+### \uc0\u55357 \u56424 \u8205 \u55356 \u57235  Student Responsibilities\
+1. Know and comply with regulations\
+2. Maintain ethical and professional behavior\
+3. Fulfill program requirements timely\
+4. Contribute to positive institutional climate\
+5. Pay fees on time\
+6. Take responsibility for violations\
+7. Compensate for material damages\
+\
+### \uc0\u9208 \u65039  Status Suspension\
+#### Grounds for Leave\
+1. Military service obligation\
+2. Illness, natural disaster, arrest\
+3. Economic/financial reasons\
+4. Mental health conditions\
+\
+#### Leave Procedures\
+- **Application:** Within 30 days of semester start\
+- **Approval:** By Faculty Decanate\
+- **Maximum Leave:** 2 semesters\
+- **Fees:** Pay \'bc tuition for each semester on leave\
+- **Extensions:** Possible with Decanate approval\
+- **Exclusion:** Not counted in study duration\
+\
+#### During Leave\
+- Cannot attend classes or take exams\
+- No reimbursement for paid tuition\
+\
+### \uc0\u55357 \u57002  Program Dismissal\
+#### Voluntary Withdrawal\
+- Submit written request to Registrar's Office\
+- Termination after clearing all obligations\
+- Receive transcript and submitted documents\
+\
+#### Involuntary Termination\
+- Disciplinary sanctions\
+- Exceeding maximum study duration\
+- Based on "On Student Discipline" regulation\
+\
+### \uc0\u55357 \u56522  Quality Assurance\
+- **Internal Evaluation:** Annual\
+- **Accreditation:** Apply within legal timeframe\
+\
+### \uc0\u55356 \u57235  Diplomas\
+#### Types Awarded\
+- **Master of Science Diploma:** 120 ECTS + thesis\
+- **Professional Master Diploma:** 60 ECTS + microthesis\
+- **Integrated Second Cycle Diploma:** 300 ECTS + thesis\
+\
+#### Diploma Supplement\
+- **Content:** Nature, cycle, content, results, regulations\
+- **Design:** By Academic Senate per ministry guidelines\
+\
+### \uc0\u55357 \u56540  Implementation\
+- **Effective Date:** Approval by Academic Senate\
+- **Enforcement:** Ensured by Rector\
+\
+---\
+\
+## 3. Regulation on Scientific Research\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-REG-038-EN\
+- **Publication Date:** 10.12.2014\
+- **Latest Amendment:** 15.12.2020\
+- **Pages:** 5\
+\
+### \uc0\u55356 \u57263  General Provisions\
+- **Legal Basis:** Law 80/2015 and University Statute\
+- **Scope:** Organizes research activities, rights, obligations, and publications\
+\
+### \uc0\u55357 \u56620  Research Activities\
+- Basic, applied, and advanced research\
+- Conferences, workshops, seminars (local, regional, international)\
+- Cooperation with research institutions\
+- Collaboration with industry and enterprises (innovation triangle)\
+- Market studies and analyses\
+- Patenting\
+- Expert opinions and quality control\
+- Professional development seminars\
+- Publication activities\
+- Other research in study program areas\
+\
+### \uc0\u55356 \u57314  Organization Structure\
+#### Research and Projects Office\
+- **Position:** Under Rector\
+- **Responsibilities:**\
+  1. Coordinate, consult, administer, and follow up research activities\
+  2. Support obtaining sponsored research funds\
+  3. Organize internal project cycles\
+  4. Provide pre/post award services\
+  5. Draft research policies and procedures\
+  6. Confirm research funding requests\
+  7. Monitor financial transactions\
+  8. Support professional development\
+  9. Assist in journal and textbook publication\
+  10. Supervise research project administration\
+  11. Prepare project applications\
+  12. Maintain research web-page and database\
+  13. Archive project applications\
+  14. Represent University in research activities\
+  15. Coordinate "Best Researcher" award\
+  16. Implement other research activities\
+\
+#### Research Centers\
+- **Oversight:** By respective Research Centre per their regulations\
+- **Management:** By Research Centre Directors\
+\
+### \uc0\u55357 \u56496  Financial Management\
+#### Support Structure\
+- **Collaboration:** Research Office + University Finance Office\
+- **Supervision:** Under University Administrator\
+\
+#### Budget Sources\
+1. University scientific research and development budget\
+2. External partners, donors, and project collaborators\
+\
+#### Budget Coverage\
+- Faculty and research centre projects\
+- International conference participation\
+- Publication in indexed journals (Web of Science, Scopus, Avery)\
+- Publication in other journals\
+- Co-financing and participation in research projects\
+\
+#### Individual Budget Lines\
+1. International conference participation\
+2. Publication in indexed journals\
+3. Publication in other journals\
+4. **Regulation:** By "On the promotion of scientific publications" directive\
+\
+#### Staff Compensation\
+- **Eligibility:** Full and part-time staff engaged in projects\
+- **Calculation:** Project staff costs minus 30% institutional expenses\
+- **Deductions:** Personal income tax and social security contributions\
+\
+### \uc0\u55357 \u56538  Publications Management\
+#### Responsibility\
+- **Primary:** Rector and Deans\
+- **Collaboration:** With Research and Projects Office\
+\
+#### Regulations\
+- **Classification:** By "On the promotion of scientific publications" directive\
+- **Criteria:** By "On Publications" regulation\
+\
+#### Approval Process\
+1. Submit to Research and Projects Office\
+2. Prior information and evaluation by:\
+   - Heads of Departments\
+   - Faculty Deans\
+   - Research Centre Directors (if applicable)\
+3. Rectorate decides on financial allocation\
+\
+### \uc0\u55356 \u57286  Best Research and Researcher Award\
+#### Process\
+1. **Annual Analysis:** Academic Senate reviews research output\
+2. **Shortlisting:** Best researchers selected\
+3. **Recommendation:** To Permanent Commission on Quality Assurance\
+4. **Evaluation:** By commission established annually\
+5. **Reward Amount:** Determined by Rectorate\
+\
+#### Database\
+- Research achievements recorded in research database\
+- Used for annual evaluation\
+\
+### \uc0\u55357 \u56517  Implementation\
+- **Effective Date:** Approval by Academic Senate\
+- **Enforcement:** Ensured by Rector\
+\
+---\
+\
+## 4. Regulation on Publications\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-REG-013-EN\
+- **Publication Date:** 14.09.2007\
+- **Pages:** 5\
+\
+### \uc0\u55356 \u57263  Scope\
+- Covers textbooks and auxiliary textbooks published by University units\
+\
+### \uc0\u55357 \u56421  Publication Commission\
+#### Formation\
+- **Appointment:** By Administrative Board\
+- **Members:** 2 Administrative Board members\
+- **Chairmanship:** One of the Vice-Rectors\
+\
+#### Responsibilities\
+1. Make necessary planning\
+2. Take all publication decisions\
+3. Supervise implementation\
+4. **Effectiveness:** Decisions effective after Administrative Board approval\
+\
+#### Publication Evaluation Criteria\
+1. Pedagogical qualifications and educational needs\
+2. Appropriate category classification\
+3. Print number, cost, sales price, and copyright price\
+\
+#### Support\
+- May use teaching and administrative staff services\
+- May establish temporary sub-committees\
+\
+### \uc0\u55357 \u56538  Publication Types\
+#### Original Works\
+- **Authors:** University members or external\
+- **Requirement:** Commission decision after department opinion\
+- **Authorization:** Written statement from author\
+\
+#### Translated Works\
+- **Requirements:**\
+  1. Written approval from translator\
+  2. Written approval from copyright holder\
+- **Fees:** Commission decides if paid from university budget\
+\
+### \uc0\u9997 \u65039  Author Responsibilities\
+- **Scientific and Language Issues:** Responsibility of authors\
+- **Submission:** Works delivered to Rector, Deans, and Research Centre Heads\
+- **Department Review:** Required for works by lecturers, instructors, and teaching assistants\
+\
+### \uc0\u55357 \u56496  Copyright Payments\
+#### Calculation Basis\
+- **Formula:** Table points \'d7 Civil servant coefficient \'d7 Nominal pages\
+- **Coefficient:** As defined in Budget Law\
+\
+#### Point Values\
+| Publication Type | Copyright Points | Translation Points |\
+|-----------------|-----------------|-------------------|\
+| Textbooks | 175 | 125 |\
+| Auxiliary Textbooks | 125 | 100 |\
+| **Foreign Language Bonus:** +2 points |\
+\
+#### Page Calculation\
+- **Standard:** 240 pages per hour per term\
+- **Payment Basis:**\
+  - <240 pages: Actual number of pages\
+  - \uc0\u8805 240 pages: Maximum 240 pages paid\
+- **Corrections:** By author/translator unless otherwise stated\
+\
+#### Additional Provisions\
+- **Multiple Editions:** First edition payment covers \uc0\u8804 5000 copies\
+- **Large Prints:** >5000 copies: +20% per page\
+- **Extra Amounts:** Not printed without author authorization\
+\
+### \uc0\u55357 \u56516  Publication Costs\
+#### Components\
+1. Copyright\
+2. Clich\'e9\
+3. Paper\
+4. Printing\
+5. Binding\
+6. Other expenses\
+\
+#### Calculation\
+- **Cost per Book:** Total expenses \'f7 Number of prints\
+\
+### \uc0\u55357 \u56580  Subsequent Editions\
+#### Contract Requirements\
+- **First Edition:** Contract with author/translator\
+- **Subsequent Editions:** New contract required for changes\
+- **Failure to Contract:** Author/translator retains printing rights\
+\
+#### Payment Rates\
+- **First Edition:** Full rate\
+- **Subsequent Editions:** 3/5 of first edition rate\
+- **New Sections:** First edition rate applies\
+\
+#### Small First Editions\
+- **Condition:** <5000 copies\
+- **Payment:** Withheld until subsequent editions complete 5000 copies\
+\
+### \uc0\u55357 \u56498  Sales and Pricing\
+#### Sales Price Calculation\
+- **Formula:** Material cost + 20%\
+- **Rounding:** Fractions omitted or rounded up\
+\
+#### Student Discounts\
+- **Minimum Discount:** 20%\
+- **Unsold Books:** After 5 years, appropriate discounts or free distribution\
+\
+#### External Sales\
+- **Permission:** By Publications Commission\
+- **Minimum Price:** Not below printing cost\
+\
+### \uc0\u55357 \u56541  Printing Principles\
+- **Standards:** Determined by Publications Commission\
+- **Author Obligation:** Comply with principles if accepting university printing\
+\
+### \uc0\u55356 \u57217  Free Copies\
+#### Author Copies\
+- **Quantity:** 50 pieces\
+- **Format:** Suppressed books or duplication\
+\
+#### Distribution Copies\
+| Recipient | Quantity |\
+|-----------|----------|\
+| Ministry of Education and Science | 2 |\
+| Concerned unit library | 5 |\
+| Teaching staff of other universities in same subject | 1 |\
+| Other domestic entities offering same subject education | 2 |\
+| Higher education libraries in Turkey and Turkish Republic (same subject) | 1 |\
+\
+### \uc0\u55356 \u57314  University Resources\
+- **Printing Press:** Preferred for course books and duplications\
+- **Sales Outlets:** Established for student sales\
+\
+### \uc0\u55357 \u56496  Income Management\
+#### Company-Organized Activities\
+- **Condition:** Costs covered by company\
+- **Income:** Registered to company\
+\
+#### University-Funded Activities\
+- **Condition:** Printing costs covered by university budget\
+- **Income:** Transferred to budget\
+\
+### \uc0\u55357 \u56517  Implementation\
+- **Effective Date:** Date of publication\
+- **Enforcement:** By Rector of Epoka University\
+\
+---\
+\
+## 5. Regulation on Permissions\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-REG-015-EN\
+- **Effective Date:** 10.10.2009\
+- **Latest Amendment:** 17.06.2016\
+- **Pages:** 4\
+\
+### \uc0\u55356 \u57263  Aim and Scope\
+- **Aim:** Regulate permission for academic and administrative staff to travel in/out of country\
+- **Scope:** Covers all permission types and procedures\
+\
+### \uc0\u55357 \u56523  General Provisions\
+#### Application Process\
+1. Fill permission request form\
+2. Submit to competent head or body\
+3. Cannot leave without granted permission\
+4. **Return Notification:** Inform head of unit in writing upon return\
+\
+#### Unauthorized Absence Consequences\
+- **Single Day:** Possible firing if:\
+  1. Miss work without permission\
+  2. Don't fill request form\
+  3. Don't inform responsible person\
+- **Notification:** Must inform head of unit at earliest\
+\
+#### Early Departure Penalties\
+- **3 Times/Month:** Wage cut equal to one day work\
+- **No Permission:** Wage cut equal to two days work\
+- **Disciplinary Procedure:** Initiated in both cases\
+\
+### \uc0\u9200  Permission Types\
+#### Legitimate vs Annual Leave\
+- **Legitimate Permission:** Not included in yearly leave\
+- **Unpaid Permission:** Not included in yearly leave\
+\
+#### Emergency Recall\
+- **Requirement:** Return to work when requested by head of unit\
+- **Expenses:** Travel costs borne by University\
+\
+#### Unjustified Absence\
+- **Failure to Return:** Subject to disciplinary procedure\
+- **Unreasonable Permission:** Subject to disciplinary procedure\
+\
+### \uc0\u55357 \u56517  Academic Calendar Restrictions\
+- **General Rule:** No permission during academic calendar\
+- **Exception:** Justified reasons with adjustments\
+- **Adjustment Responsibility:** Head of department\
+- **Notification:** Inform respective unit in writing\
+\
+### \uc0\u55356 \u57101  International Travel\
+- **Extra Days:** Up to 5 additional days possible\
+- **Approval:** By competent body\
+\
+### \uc0\u55356 \u57302 \u65039  Yearly Leave\
+#### Approval Authorities\
+| Staff Type | Proposal By | Approval By |\
+|------------|-------------|-------------|\
+| Dean, Coordinators linked with Rector's Office | - | Rector |\
+| Other academic staff | Head of Department | Dean |\
+| Administrative personnel | Head of Unit + Secretary General | Rector |\
+\
+#### Special Cases\
+- **1-Year Contracts:** Paid for 10 months, no yearly leave\
+- **First Year Employees:** Leave only after 6 months work\
+- **Carryover:** Generally not allowed\
+- **Exceptions:** By director decision:\
+  1. Use leave in following year\
+  2. Payment according to working days\
+\
+#### Usage Rules\
+- **Division:** Maximum 2 parts\
+- **Academic Staff:** Cannot use during teaching process\
+- **Timing:** Defined by approving authority\
+\
+### \uc0\u9888 \u65039  Overstay Consequences\
+- **Unjustified Late Return:** 2 days net wage cut\
+\
+### \uc0\u55357 \u56522  Leave Accounting\
+- **Other Permissions:** Subtracted from yearly leave or considered unpaid\
+\
+### \uc0\u55357 \u56421  Leave Duration by Nationality\
+- **Foreign Staff:** 35 days yearly leave\
+- **Albanian Staff:** 28 days yearly leave\
+\
+### \uc0\u55356 \u57225  Justified Permission\
+#### Eligible Occasions\
+1. Death\
+2. Marriage\
+3. Birthday\
+\
+#### Application Process\
+1. Define cause\
+2. Fill request form\
+3. Submit to competent organ\
+\
+#### Duration by Occasion and Location\
+| Occasion | Inside Albania | Outside Albania |\
+|----------|----------------|-----------------|\
+| Marriage | 5 days | 10 days |\
+| Wife's childbirth | 2 days | 7 days |\
+| Death of relatives | 5 days | 7 days |\
+\
+#### Approval Authorities\
+##### \uc0\u8804 1 Week Permission\
+| Staff Type | Approval By | Consultation Required |\
+|------------|-------------|----------------------|\
+| Dean, Institute Director, Rector's Office Coordinator, Head of Department | Rector | - |\
+| Other academic staff | Dean of Faculty/Director of Center | Head of Department opinion |\
+| All administrative staff | Secretary General | - |\
+\
+##### >1 Week Permission\
+- **Requirement:** Administrative Board decision + Rector approval\
+\
+### \uc0\u55356 \u57317  Medical Permission\
+- **Duration:** Up to 6 months\
+- **Requirement:** Medical record justifying health conditions\
+\
+### \uc0\u55358 \u56624  Maternity Permission\
+- **Total Paid Leave:** 126 days\
+- **Distribution:**\
+  - Before birth: 70 days\
+  - After birth: 56 days\
+- **Special Cases:**\
+  - Surgery or multiple births: 70 days after birth\
+\
+### \uc0\u55356 \u57235  Assignment Permission\
+#### Purposes\
+1. Participate in scientific activities\
+2. Research and application\
+3. Participate in postgraduate programs\
+\
+#### Other Regulations\
+- Additional directive regulates assignment issues\
+\
+#### Graduate Program Permission\
+- **Request:** By enrolled academic personnel\
+- **Approval:** Head of Department + Dean\
+- **Responsibility:** Approving authorities\
+- **Requirements:**\
+  1. Attach program to request form\
+  2. Submit report after duty completion\
+\
+### \uc0\u55357 \u56504  Unpaid Permission\
+#### Eligible Cases\
+##### a) Caregiving (\uc0\u8804 6 months)\
+- **Conditions:**\
+  - Serious accident/illness\
+  - Life-threatening situation requiring accompaniment\
+  - Persons: Mother, father, husband, wife, children, siblings\
+- **Documentation:** Doctor's report\
+- **Extension:** Possible for additional 6 months with same conditions\
+\
+##### b) Post-Maternity (\uc0\u8804 6 months)\
+- **Timing:** Following paid maternity leave\
+- **Approval:** By Rector\
+\
+##### c) Long-Term Assignment (\uc0\u8804 1 year)\
+- **Timing:** After 1 year paid permission\
+- **Approval:** By Administrative Board\
+\
+### \uc0\u55357 \u56517  Daily Permission\
+- **Duration:** Up to one day\
+- **Reasons:** Official, family, or special occasions\
+- **Approval Authorities:**\
+  - Academic personnel: Head of Department\
+  - Administrative personnel: Head of Unit\
+\
+### \uc0\u55357 \u56517  Implementation\
+- **Effective Date:** After Higher Board approval\
+- **Enforcement:** By Rector of Epoka University\
+\
+---\
+\
+## 6. Regulation on PhD Study Programs\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-REG-034-EN\
+- **Effective Date:** 23.12.2010\
+- **Latest Amendment:** 24.10.2018\
+- **Pages:** 29\
+\
+### \uc0\u55357 \u56540  Ordinances\
+#### PhD Degree Definition\
+- **Award Basis:** Successful completion of supervised research and training\
+- **Requirements:** Original contribution to knowledge\
+- **Format:** Dissertation or appropriate form\
+- **Standard:** Peer-review publication quality\
+\
+#### Admission Conditions\
+- Prescribed by regulation\
+- **Qualifications:** Degree or equivalent\
+- **Fitness:** Demonstrated ability and training\
+\
+### \uc0\u55356 \u57263  General Requirements\
+#### Regulation Aim\
+- Defines program functioning rules\
+- Defines student-staff relationships\
+- Covers objectives, structure, rights, obligations, criteria, and sanctions\
+\
+#### Legal Basis\
+1. Law 80/2015\
+2. Council of Ministers Decision No. 112 (23.02.2018)\
+3. Licensing Decision No. 281 (12.03.2008)\
+4. Naming Decision No. 553 (22.08.2012)\
+5. Ministerial Directive No. 5 (22.01.2008)\
+6. Other related legal acts\
+7. University Statute and Basic Regulation\
+\
+### \uc0\u55357 \u56523  Definitions\
+| Term | Definition |\
+|------|------------|\
+| The Law | Law 80/2015 |\
+| Institution/University | Epoka University |\
+| Faculty | Faculty to which dissertation subject belongs |\
+| Department | Basic unit of Faculty |\
+| Dissertation | Long essay for PhD degree (book or article form) |\
+| Propositions | Statements defended with scientific arguments |\
+| Preliminary/supplementary material | University dissertation manual |\
+| Doctoral defence | Public defence meeting |\
+| Rector | Rector of Epoka University |\
+| PCPhD | Permanent Commission on Conferring PhD Scientific Degree |\
+| Scientific Committee | PhD study program committee |\
+| Credits | Course credits (American System) |\
+| ECTS | European System of Collection and Transfer of Credits |\
+| TOEFL | Test of English as a Foreign Language |\
+| IELTS | International English Language Testing System |\
+| CGPA | Cumulative Grade Point Average |\
+\
+### \uc0\u55356 \u57235  PhD Award Requirements\
+#### Student Obligations\
+1. Meet entry requirements\
+2. Pursue prescribed program\
+3. Comply with supervision, residence, attendance\
+4. Fulfill progression requirements including Academic Integrity Tutorial\
+5. Pay prescribed fees\
+6. Meet assessment/examination requirements\
+\
+#### Non-Compliance\
+- May prevent assessment/examination entry\
+\
+### \uc0\u55357 \u56421  Permanent Commission on Conferring PhD (PCPhD)\
+#### Composition\
+- **Members:** 5 academic staff with "Professor" or "Associate Professor" title\
+- **Election:** By Faculty Academic Personnel Assembly\
+- **Term:** 2 years (renewable)\
+- **Chairperson:** Elected among members\
+\
+#### Responsibilities\
+- Follow legislation and university regulations\
+- **Decision Making:** Simple majority, all members participate\
+- **Tie-breaking:** Chairperson's vote decisive\
+\
+### \uc0\u55357 \u56620  Scientific Committee\
+- **Establishment:** By PCPhD for each program\
+- **Composition:** \uc0\u8805 3 PhD holders from University\
+\
+### \uc0\u55358 \u56592  Confidentiality\
+- **Obligation:** All PhD Jury meeting attendees\
+- **Scope:** Discussions during meetings\
+\
+### \uc0\u55357 \u56541  Admission and Enrollment\
+#### Eligibility Requirements\
+1. **Degree:** Master of Science/Arts, integrated second cycle, or equivalent\
+2. **CGPA:** \uc0\u8805 2.70/4.00 or 8/10 or equivalent\
+3. **English:** C1 level proficiency per Ministerial Directive No. 52\
+\
+#### Foreign Students\
+- **General Rule:** Follow same rules\
+- **Exception:** Additional documents may be required\
+- **Approval:** Scientific Committee proposal + PCPhD decision\
+\
+#### Enrollment Requirements\
+##### Annual Registration\
+- Register at degree beginning\
+- Re-register annually\
+- **Fees:** Payable annually during degree\
+\
+##### Application Documents\
+1. Notarized diploma copy (English/Albanian)\
+2. Bachelor transcript (English/Albanian)\
+3. Master transcript (English/Albanian)\
+4. Foreign degree equivalence document (if applicable)\
+5. English C1 proficiency proof\
+6. Two academic reference letters\
+7. Curriculum Vitae\
+8. PhD proposal in approved research area\
+\
+##### Document Processing\
+1. Admission Office checks formal criteria\
+2. Complete files submitted to Scientific Committee\
+\
+##### Admission Criteria Evaluation\
+1. Research program compliance with approved areas\
+2. Academic success in graduate/undergraduate programs\
+3. English proficiency level\
+4. Interview with Scientific Committee\
+5. Other requested documents\
+\
+##### Final Approval\
+- Scientific Committee proposal to PCPhD\
+\
+### \uc0\u55357 \u56523  Registration Procedures\
+#### Required Documents\
+1. Notarized diploma copy (English/Albanian)\
+2. Master transcript (English/Albanian)\
+3. Foreign degree equivalence (if applicable)\
+4. English C1 proficiency proof\
+5. ID copy (passport for foreigners, translated)\
+6. Fee payment proof\
+7. 6 photos (5x6 cm, suitable attire)\
+8. Employment proof (if academic/research staff)\
+\
+#### Foreign Student Registration\
+- **Status:** Conditional until residence permit submission\
+- **Document:** Notarized residence permit copy to Registrar's Office\
+\
+### \uc0\u55357 \u56424 \u8205 \u55356 \u57235  Student Status\
+- **Establishment:** After signing service contract\
+- **Termination:** Graduation or earlier enrollment termination\
+\
+### \uc0\u55357 \u56538  Program Organization\
+#### Duration\
+- **Full-time:** 3-5 years continuous registration\
+- **Employed Candidates:** 3-5 years (academic/research staff)\
+\
+#### Program Stages\
+##### Stage 1: Theoretical Training (Year 1)\
+- **Focus:** Research methods and theoretical knowledge\
+- **Activities:**\
+  1. Theoretical courses\
+  2. Literature review writing\
+- **Duration:** 1 year (2 semesters) full-time\
+- **Requirements:** 60 ECTS, 1,500 study hours\
+- **Class Duration:** 60 minutes\
+- **Activities:** Theoretical classes, trainings, practice, seminars, labs, workshops, research projects\
+- **Exchange Programs:** Possible per bilateral agreements\
+\
+##### Qualifying Examination\
+- **Timing:** Before dissertation writing stage\
+- **Format:** Written/oral exams/presentations per Scientific Committee\
+- **Retake:** One additional attempt allowed\
+- **Failure Consequence:** Enrollment termination\
+\
+##### Stage 2: Dissertation Writing\
+- **Start:** After successful Stage 1 completion\
+- **Exemption:** Possible for eligible candidates\
+\
+### \uc0\u55356 \u57235  Exemption from Theoretical Stage\
+#### Eligibility\
+1. Master of Second Level (MND) or equivalent\
+2. 360 ECTS theoretical courses (including 60 ECTS in third cycle)\
+   - **Requirement:** \uc0\u8805 15 ECTS from foreign academic staff\
+\
+#### Application Process\
+1. Submit request to Scientific Committee\
+2. Provide:\
+   - Certified diploma/degree copies\
+   - Course overview\
+3. Scientific Committee evaluation\
+4. PCPhD final approval\
+5. Written notification to applicant\
+\
+### \uc0\u9208 \u65039  Degree Interruption\
+#### Conditions\
+- **Approval:** University discretion\
+- **Reason:** Research/thesis preparation not possible\
+- **Application:** Before proposed interruption period\
+- **Support:** Supervisor support required\
+- **Retrospective:** Not normally considered\
+\
+#### Procedures\
+1. Seek sponsor advice (if applicable)\
+2. Apply as soon as interruption needed\
+3. **Approval:** Scientific Committee proposal + PCPhD approval\
+\
+### \uc0\u55357 \u56580  Research Changes\
+- **Permission:** Required for significant changes\
+- **Application:** By supervisor with student agreement\
+- **Consultation:** Sponsoring body advice recommended\
+\
+### \uc0\u55357 \u56424 \u8205 \u55356 \u57323  Supervisor Appointment\
+#### Process\
+1. Mutual student-supervisor consent\
+2. Scientific Committee proposal\
+3. PCPhD final approval\
+4. Written notification by Head of Department\
+\
+#### Restrictions\
+- **Part-time Professors:** Usually not appointed (PCPhD may decide otherwise)\
+- **Excluded Persons:**\
+  1. Candidate's spouse\
+  2. Blood relatives or first/second-degree relatives\
+  3. Persons with conflict of interest\
+\
+#### Research Groups\
+- **Format:** Research groups by discipline\
+- **Leadership:** "Associate Professor" or "Professor" title holders\
+- **Student Limits:**\
+  - Professor: \uc0\u8804 7 students total (across all institutions)\
+  - Associate Professor: \uc0\u8804 5 students total\
+  - Part-time: \uc0\u8804 3 students total\
+\
+### \uc0\u55357 \u56421  Co-supervisor Appointment\
+#### Conditions\
+- **Request:** By supervisor after student consultation\
+- **Approval:** Scientific Committee proposal + PCPhD approval\
+- **Verification:** Supervisor ensures willingness\
+\
+#### Limitations\
+- One co-supervisor per supervisor\
+\
+#### Qualifications\
+- **General:** Albanian/foreign experts with "Professor Dr." or "Associate Professor Dr." title\
+- **Exception:** EU/US/Canada host institution co-supervisors with PhD degree\
+- **Requirement:** Active involvement in dissertation subject\
+\
+### \uc0\u55357 \u56523  Supervisor Tasks\
+#### Guidance and Planning\
+- Guide candidate to complete dissertation\
+- Create supervision plan within 6 weeks of appointment\
+- **Plan Elements:** Regular consultation schedule + written reports\
+- **Submission:** Copy to PCPhD\
+\
+#### Research Ethics Assurance\
+1. Conduct research per academic practice rules\
+2. Human subject research: Obtain consent\
+3. Third-party funding: Minimize restrictions, protect academic freedom\
+\
+#### Manuscript Review\
+- Receive manuscript (whole or sections)\
+- Check compliance with PhD requirements\
+- Suggest additions/alterations after consultation\
+- Approve final manuscript\
+\
+### \uc0\u55357 \u57002  Supervisor Resignation\
+- **Effect:** Appointment lapses\
+- **Replacement:** Scientific Committee proposes new supervisor\
+- **Approval:** PCPhD approval required\
+\
+### \uc0\u55357 \u56522  Progress Monitoring\
+#### Reporting\
+- **Frequency:** Per semester\
+- **Content:** Supervisor report on satisfactory progress\
+- **Recipient:** Scientific Committee\
+\
+#### Unsatisfactory Progress\
+- **Consequence:** Two consecutive unsatisfactory reports\
+- **Action:** Scientific Committee recommends candidature termination to PCPhD\
+\
+#### Performance Impairment\
+- **Duty:** Candidate must inform:\
+  1. Head of Scientific Committee\
+  2. Head(s) of relevant Department(s)\
+- **Timing:** Earliest opportunity, before dissertation submission\
+\
+### \uc0\u9888 \u65039  Degree Revocation\
+#### Grounds\
+1. Plagiarism\
+2. Data falsification\
+- **Timing:** Any time, even after conferral\
+\
+#### Process\
+1. Dean requests immediate PCPhD meeting\
+2. PCPhD evaluates case\
+3. Ethics Board evaluates PCPhD decision\
+4. Ethics Board may propose revocation to Rector\
+5. Rector decides\
+6. Ministry erases registration from state register\
+\
+### \uc0\u55357 \u56541  Manuscript Approval\
+#### Supervisor Responsibility\
+- Ensure manuscript meets dissertation standards\
+- Assess text per legal/regulatory requirements\
+- Approve if standards met and demonstrates independent research competence\
+\
+### \uc0\u55357 \u56534  Dissertation Requirements\
+#### Submission Requirements\
+- **Copies:** Electronic (PDF) + 2 paper copies\
+- **Format:** Free from publication restrictions\
+- **Presentation:** Satisfactory manner\
+- **Retention Right:** University retains copies\
+\
+#### Previous Work Inclusion\
+- **Unpublished:** Reported in sufficient detail for evaluation\
+- **Published:** Mentioned for reference\
+- **Disclosure:** Must clarify previous submission at relevant points\
+\
+#### General Requirements\
+- **Conciseness:** Work reported concisely\
+- **Language:** English (quotations may be in original language)\
+- **Exception:** Other languages permitted with approval\
+- **Formatting:** Per University Guidance for Presentation of Theses\
+\
+#### Character and Content\
+- **Description:** Independent research or essential contribution\
+- **Responsibility:** Candidate responsible/jointly responsible as scientific work\
+- **Guidelines:** Per PCPhD-approved Faculty guidelines\
+\
+#### Pre-Defense Requirements\
+1. **Presentations:** \uc0\u8805 3 (first/second author, supervisor may be first author)\
+   - \uc0\u8805 2 in international scientific activities in EU/OECD/G20 countries\
+   - Published in Proceedings with ISBN/ISSN\
+2. **Publications:** \uc0\u8805 3 scientific articles\
+   - \uc0\u8805 2 in indexed journals of OECD/EU/G20 countries with editorial board\
+   - \uc0\u8805 1 as first author, \u8805 1 as second author\
+   - \uc0\u8805 1 in peer-reviewed periodical journal in SCI/SSCI/AHCI or Scopus\
+3. **Dissertation Submission:** To PCPhD with supervisor-approved summary\
+4. **Format Compliance:** Certified by appointed academic staff\
+5. **English Proficiency:** For pre-2015-2016 students, C1 level per Directive No. 14\
+\
+### \uc0\u55356 \u57235  Program Conduct\
+#### Admission Quotas\
+- **Approval:** Academic Senate decision\
+- **Basis:** Decanate proposal after PCPhD opinion\
+\
+#### Course Advisor\
+- **Appointment:** By Scientific Committee\
+- **Qualifications:** Faculty lecturer with PhD\
+- **Duties:**\
+  1. Advise on course registration\
+  2. Monitor performance\
+  3. Provide career management advice\
+\
+#### Attendance Requirements\
+- **Minimum:** 80% of theoretical/research courses and labs\
+- **Non-compliance:** Retake course with all obligations\
+\
+#### Course Registration\
+- **Requirement:** Register for semester courses per Scientific Committee procedure\
+- **Timing:** Per academic calendar before each semester\
+- **Payment Prerequisite:** Tuition fee payment required\
+- **Non-payment Consequence:** Cannot attend courses or take exams\
+- **Non-renewal Consequence:** Subject to university penalties\
+- **Approval:** Required from advisor\
+\
+#### Transfers\
+##### Eligibility\
+1. Currently enrolled in PhD program (inside/outside institution)\
+2. Study at Epoka \uc0\u8805 1 academic year before completion\
+3. Meet all enrollment criteria\
+4. **Credit Recognition:** 60 ECTS from third cycle program recognized as Stage 1 courses\
+5. **Application Timing:** Before academic calendar deadline per Senate principles\
+\
+##### Process\
+1. Scientific Committee evaluates transfer request\
+2. Proposal to PCPhD for decision\
+3. **Accepted Transfers:** Same rights/obligations as Epoka students\
+\
+#### Stage 1 Completion\
+- **Requirements:** CGPA \uc0\u8805 3.00, no FD/FF grades\
+- **Timing:** End of second semester\
+\
+### \uc0\u55357 \u56424 \u8205 \u55356 \u57235  Student Rights and Responsibilities\
+#### Rights\
+1. Clearly formulated, academically justified rules/procedures\
+2. Protection from discrimination/inappropriate evaluation\
+3. Access to academic information and activity programs\
+4. Use of institution's equipment, library, internet per rules\
+5. Freedom of expression\
+6. Participation in academic/professional activity evaluation\
+\
+#### Responsibilities\
+1. Know and comply with regulations and requirements\
+2. Maintain ethical, professional, civilized behavior\
+3. Fulfill program requests and obligations timely\
+4. Contribute to program success and positive climate\
+5. Pay registration/tuition fees on time\
+6. Take responsibility for regulation breaches\
+7. **Disciplinary Measures:** Per "On Student Discipline" regulation\
+\
+### \uc0\u9208 \u65039  Status Suspension\
+#### Leave Procedures\
+- **Application:** Within 30 days of semester start\
+- **Approval:** PCPhD\
+- **Maximum:** 2 leaves per student\
+- **Fees:** Pay \'bc tuition for each semester on leave\
+\
+#### Justified Reasons\
+1. Military service enlistment or non-postponement\
+2. Epidemic, natural disasters, detention, economic reasons\
+3. Mental/psychological/physical illnesses (official documentation)\
+\
+#### Special Provisions\
+- **In-semester Leave:** Possible for reasons in point 2\
+- **Tuition:** Not refunded for in-semester leave\
+- **Documentation:** Submit within 20 days of occurrence\
+- **Extension:** Possible if reasons continue\
+- **Long-term Leave:** Not included in study period if specified in PCPhD decision\
+\
+### \uc0\u55357 \u57002  Program Withdrawal\
+#### Voluntary\
+- **Application:** Written request to Scientific Committee\
+- **Termination:** After delivering non-affiliate document showing no university obligations\
+- **Document Return:** Submitted documents returned to student\
+- **Approval:** PCPhD approval required\
+\
+### \uc0\u55357 \u56516  Dissertation Submission\
+#### Notice Requirements\
+- **Timing:** 6 weeks to 6 months before submission\
+- **Form:** Prescribed form\
+\
+#### Submission Requirements\
+1. **Electronic:** PDF with plain-text metadata\
+2. **Paper:** 2 copies printed from electronic version\
+3. **Retention Right:** University retains copies\
+4. **Formatting Details:** Per Presentation of Theses Policy\
+\
+#### Late Submission\
+- **Consequence:** Candidacy automatically lapses\
+- **Exception:** Further University approval required\
+\
+#### Early Submission\
+- **Condition:** >3 months before degree end (>6 months if part-time)\
+- **Permission:** Required from supervisor and Scientific Committee\
+\
+#### Alternative Format Submission\
+1. Prepare written request outlining proposed structure\
+2. Submit to supervisor and Scientific Committee\
+3. **Evaluation:** Per Guidance for Presentation of Theses principles\
+4. **Approval:** Complete prescribed form when submitting dissertation\
+\
+### \uc0\u55357 \u56421  PhD Jury Procedures\
+#### Appointment Process\
+1. Supervisor approves manuscript\
+2. Candidate submits dissertation + file to Dean\
+3. Dean forwards to Department Scientific Committee within 15 days\
+4. Department evaluation within 30 days\
+5. Positive evaluation: Forward to PCPhD within 30 days\
+6. PCPhD establishes jury within 30 days\
+7. **Negative Evaluation:** Resubmission after \uc0\u8805 3 months\
+\
+#### Jury Composition\
+- **Members:** 5 total\
+- **Professors:** \uc0\u8805 3 with "Professor Dr." title\
+- **Associate Professors:** May substitute if professors unavailable (with sufficient experience)\
+- **External Members:** \uc0\u8805 2 from domestic/foreign counterpart institutions\
+- **Opponents:** 2 appointed by PCPhD (one external)\
+- **Exclusion:** Supervisor cannot be member\
+- **PhD Holders:** One may be included if from world-renowned university with \uc0\u8805 5 years field experience\
+- **Reserve Members:** 2 appointed for replacement\
+- **Defense Date:** Set within 15 days of establishment\
+\
+### \uc0\u55356 \u57235  PhD Examinations\
+#### Oral Examination\
+- **Requirement:** Attend oral exam on dissertation and related matters\
+- **Additional Exams:** Written/other exams possible\
+- **Participants:** Candidate and Jury members\
+\
+#### Admission to Exams\
+- **Prerequisite:** Meet ordinance/regulation requirements\
+- **Exemption:** Possible by Scientific Committee on PCPhD recommendation\
+\
+#### Jury Recommendations\
+1. **Award PhD:** No corrections required\
+2. **Award PhD:** Minor corrections required (to Jury satisfaction)\
+3. **Revise/Resubmit:** Within 3-12 months\
+   - Normally one referral only\
+   - Re-examination by original Jury\
+   - Further oral exam possible\
+4. **No Award:** No resubmission permitted\
+\
+### \uc0\u55356 \u57286  Degree Conferral\
+#### Jury Decision\
+- **Basis:** Unanimity\
+- **Finality:** Decision is final\
+- **Notification:** Assessment report to PCPhD\
+\
+#### PCPhD Decision\
+- **Timing:** Within 10 days of receiving report\
+- **Action:** Decide on "Doctor" (PhD) scientific degree conferral\
+- **Forwarding:** To Dean for further procedures\
+\
+### \uc0\u55356 \u57238 \u65039  Award Granting\
+#### Pre-Award Requirements\
+1. Complete minor corrections to Jury satisfaction\
+2. Deposit copies in University Library and National Library of Albania\
+\
+#### Representation Restrictions\
+- Cannot represent as holding award until actually granted\
+\
+#### Library Obligations\
+- Obtain and present clearance of all library obligations before receiving parchment\
+\
+#### Graduation Ceremony\
+- **Attendance:** In person or in absentia\
+- **Notification:** Inform Department Coordinator of attendance intention\
+- **Dress Code:** Prescribed attire required\
+\
+### \uc0\u55357 \u56538  Dissertation Availability\
+#### Deposit Requirements\
+- Per Code of Practice on Research Degrees\
+\
+#### Access Conditions\
+- **Normal:** Available for consultation and reproduction (with acknowledgement)\
+- **Restriction:** Author may request withholding for \uc0\u8804 2 years from deposit date\
+\
+### \uc0\u55356 \u57285  PhD with Distinction\
+#### Criteria\
+- **Basis:** Exceptional abilities demonstrated in dissertation\
+- **Standard:** Among very best in scientific field\
+\
+#### Proposal Process\
+- **Initiator:** PhD Jury or member\
+- **Timing:** Before dissertation defence\
+\
+#### Decision\
+- **Basis:** Unanimity\
+\
+### \uc0\u55356 \u57235  Diploma Award\
+#### Requirements\
+1. Complete 60 ECTS from theoretical stage\
+2. Pass PhD Qualifying Examination\
+3. Defend PhD dissertation per regulation\
+\
+#### Content\
+- Program and title proposed by Scientific Committee\
+\
+### \uc0\u55356 \u57238 \u65039  Honorary Doctorate\
+#### Conferral Authority\
+- **Entity:** PCPhD\
+- **Recipients:** Distinguished Albanian/foreign persons\
+- **Basis:** Outstanding services in education, science, country development\
+- **Approval:** Academic Senate decision after ministry consent\
+- **Limit:** \uc0\u8804 2 per year\
+\
+#### Grounds for Conferral\
+1. Exceptional significance research/activities for University/academia\
+2. Exceptional advancement of academic teaching/research\
+3. Outstanding contribution to country development\
+\
+#### Consideration Process\
+1. PCPhD submits proposal to Rector\
+2. Rector submits to Academic Senate (PCPhD proposal or own initiative)\
+3. Academic Senate decides\
+4. Confer after ministry consent\
+\
+### \uc0\u9878 \u65039  Appeals and Hearings\
+#### Dean Mediation\
+- **Scope:** Disputes regarding manuscript approval or proposition defensibility\
+- **Initiation:** At request of either party\
+- **Exclusion:** Disputes relating to PCPhD decisions\
+\
+#### PCPhD Decision Process\
+1. Give parties and Dean opportunity to present case\
+2. May seek advice from Rector-appointed committee\
+3. Notify all parties immediately\
+\
+### \uc0\u55357 \u56541  Degree Registration\
+#### State Register\
+- **Responsibility:** University submits graduate list to ministry\
+- **Purpose:** Registration in State Register for Scientific Degrees and Academic Titles\
+\
+#### University Registers\
+- **Timing:** After state registration\
+- **Action:** Register PhD degree in university registers\
+\
+### \uc0\u55357 \u56540  Concluding Provisions\
+#### Interpretation\
+- **Authority:** Academic Senate decides on:\
+  1. Regulation interpretation differences\
+  2. Unprovided eventualities\
+\
+#### Implementation\
+- **Effective Date:** After Academic Senate approval\
+- **Enforcement:** By Rector of Epoka University}

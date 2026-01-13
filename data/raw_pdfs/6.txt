@@ -1,0 +1,112 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # Epoka University: Official Directives Knowledge Base\
+\
+## 1. Directive on Student Clubs (EU-DIR-005-EN)\
+[cite_start]**Objective**: Regulates establishment and functioning of clubs to ensure student participation in extracurricular activities[cite: 2].\
+\
+### Establishment & Registration\
+* [cite_start]**Requirements (Art. 3)**: At least **six students** must submit a request along with a draft-statute and a signed agreement from a staff member to act as the **Club Advisor**[cite: 4].\
+* [cite_start]**No Overlap**: A new club's field of activity cannot be the same or highly similar to an existing one[cite: 5].\
+* [cite_start]**Approval**: The Dean of Students evaluates and approves establishment[cite: 6].\
+\
+### Operations & Membership\
+* [cite_start]**Term (Art. 4)**: Clubs operate for one academic year[cite: 7].\
+* [cite_start]**Annual Planning**: Club Boards must submit a **draft-program and budget** (detailing costs and funding) at the start of each academic year[cite: 10, 11].\
+* [cite_start]**Eligibility (Art. 5)**: Open only to current students[cite: 18]. [cite_start]One student may join multiple clubs[cite: 19].\
+* [cite_start]**Honor Members**: Alumni may participate as honor members[cite: 20].\
+* [cite_start]**Active Status**: Requires participation for at least two semesters[cite: 22].\
+* **Closure**: Clubs inactive for two months after the start of the academic year may be warned or closed by the Dean of Students.\
+\
+---\
+\
+## 2. Directive on Student Transfer (EU-DIR-017-EN)\
+[cite_start]**Objective**: Principles for intra-university (internal) and inter-university (external) transfers[cite: 209].\
+\
+### Timeline & Procedure\
+* [cite_start]**Application Window**: Must be submitted within the period specified in the academic calendar[cite: 212].\
+* [cite_start]**Decision Time**: Decisions are typically rendered within **one week** of submission[cite: 213].\
+* [cite_start]**Approval**: Applications are reviewed by the Department and approved by the Faculty Decanate[cite: 215].\
+\
+### Transfer Requirements\
+* **Bachelor Transfers (Art. 5.1.1)**:\
+    * [cite_start]**Timing**: Between 2nd and 6th semester (3-year programs) or 8th semester (4-year programs)[cite: 217].\
+    * [cite_start]**Grade Criteria**: Credits are only recognized for courses with a grade of at least **1.00/4.00**[cite: 219].\
+* **Master Transfers (Art. 5.1.2)**:\
+    * [cite_start]**Timing**: Only at the beginning of each academic year[cite: 223].\
+    * [cite_start]**GPA Criteria**: Requires a minimum **CGPA of 2.00/4.00 (70/100)**[cite: 224].\
+    * [cite_start]**Grade Criteria**: Courses must have a grade of at least **2.50/4.00** to be recognized[cite: 226].\
+* **Inter-University Grading**: External grades are recognized as **"T" (Transfer) grades** and do not influence the Epoka CGPA.\
+\
+---\
+\
+## 3. Directive on Staff Assignment to Duty (EU-DIR-007-EN)\
+[cite_start]**Objective**: Regulations for domestic and international task assignments for academic staff[cite: 354].\
+\
+### Assignment Types\
+* [cite_start]**Temporary Duty (Art. 2a)**: Up to **one month** for scientific meetings or research[cite: 355]. [cite_start]Assignments over 15 days require a detailed report and Faculty Board permission[cite: 356].\
+* [cite_start]**Long-term Duty (Art. 2b)**: Exceeding **one month** for research or graduate studies[cite: 357].\
+* [cite_start]**Staff Eligibility (Art. 4)**: Requires **three years of seniority** at Epoka and at least one year of teaching experience[cite: 363].\
+\
+### Approval & Deadlines\
+* [cite_start]**Deadlines (Art. 3)**: Applications for board-approved assignments must be submitted **20 days** in advance; others require **10 days**[cite: 362].\
+* [cite_start]**Special Permission**: Rector approval is required for all permits over 15 days[cite: 360].\
+* **Reporting**: Graduate students must submit quarterly status reports. A final report is due **one month** before any assignment ends.\
+\
+---\
+\
+## 4. Directive on the Exam Board (EU-DIR-020-EN)\
+[cite_start]**Objective**: Duties and functions to ensure examination quality and integrity[cite: 444].\
+\
+### Exam Definitions (Art. 3)\
+* [cite_start]**Additional Exam**: For graduating students with FD/FF grades in max two courses and a CGPA < 2.00[cite: 448].\
+* [cite_start]**Resit Exam**: Scheduled immediately after final exams for students with low grades[cite: 462].\
+* [cite_start]**Fraud**: Includes plagiarism, falsification, cheating, and deceit[cite: 453, 454].\
+\
+### Board Responsibilities (Art. 4)\
+* [cite_start]**Composition**: Includes a Chairperson and at least one representative from each Faculty[cite: 463].\
+* [cite_start]**Quality Assurance**: Establishes guidelines for all exam types [cite: 467][cite_start], monitors schedules [cite: 469][cite_start], and evaluates fraud cases[cite: 470].\
+* [cite_start]**Appeals**: Reviews grade distribution and formal grade appeals[cite: 460].\
+\
+---\
+\
+## 5. Directive on the Library (EU-DIR-002-EN)\
+[cite_start]**Objective**: Efficient and safe use of library resources[cite: 650].\
+\
+### Conduct & Rules (Art. 4)\
+* [cite_start]**Prohibitions**: Food, beverages, and tobacco are strictly forbidden[cite: 658].\
+* [cite_start]**Environment**: Mobile phone use, loud talking, and noise are prohibited[cite: 661].\
+* [cite_start]**Personal Property**: The library is not responsible for lost or stolen personal items[cite: 660].\
+\
+### Borrowing (Art. 5)\
+* [cite_start]**Identification**: Users must present a **University ID**[cite: 665].\
+* [cite_start]**Reference Restrictions**: Theses, dictionaries, encyclopedias, and unbound journals cannot be borrowed but may be photocopied[cite: 662, 663].\
+* [cite_start]**Recalls**: The library can recall items before the due date; recalled items must be returned within **three days**[cite: 670].\
+* **Sanctions**: Violations lead to an official report, a **one-year ban**, and possible disciplinary investigation.\
+\
+---\
+\
+## 6. Promotion of Scientific Publications (EU-DIR-004-EN)\
+[cite_start]**Objective**: Encouraging staff publications and scientific activities[cite: 804].\
+\
+### Eligibility & Reward Calculation\
+* [cite_start]**Scope**: Publications must be under the **Epoka University name**[cite: 805].\
+* [cite_start]**Timeline**: Applications must be for outputs finalized in the current or previous academic year[cite: 813].\
+* **Point System (Art. 5)**:\
+    * [cite_start]**Q1 Journals**: $600 \\times \\text\{Impact Factor\}$[cite: 821].\
+    * [cite_start]**Q2 Journals**: $600 \\times (\\text\{Impact Factor\} \\div 2)$[cite: 821].\
+    * [cite_start]**Q3 Journals**: $600 \\times (\\text\{Impact Factor\} \\div 3)$[cite: 821].\
+    * [cite_start]**Q4/Minimum**: 600 points[cite: 821].\
+\
+### Author Split & Caps\
+* **Distribution (Art. 4)**:\
+    * [cite_start]**2 Authors**: 60% (1st) / 40% (2nd)[cite: 818].\
+    * [cite_start]**3 Authors**: 50% (1st) / 30% (2nd) / 20% (3rd)[cite: 819].\
+    * [cite_start]**>3 Authors**: 40% (1st), 30% (2nd), 20% (3rd), and 10% divided among others[cite: 820].\
+* [cite_start]**Annual Cap**: Total rewards per staff member cannot exceed **one month\'92s gross salary** per year[cite: 821].\
+* **Acknowledgment (Art. 7)**: Must include the phrase: *"This article/paper/book/chapter was partially/fully supported by research funds from EPOKA University"*.}

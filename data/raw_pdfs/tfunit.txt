@@ -1,0 +1,452 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # EPOKA University Policies and Regulations Documentation\
+\
+## \uc0\u55357 \u56538  Overview\
+This document provides comprehensive summaries of additional EPOKA University policies and regulations covering continuous improvement of study programs, staff participation in external activities, and staff discipline procedures.\
+\
+---\
+\
+## \uc0\u55357 \u56523  Table of Contents\
+1. [Policy on Continuous Improvement of Study Programs](#1-policy-on-continuous-improvement-of-study-programs)\
+2. [Policy on Participation of Academic Staff in External Activities](#2-policy-on-participation-of-academic-staff-in-external-activities)\
+3. [Regulation on Discipline of Managing, Academic and Administrative Staff](#3-regulation-on-discipline-of-managing-academic-and-administrative-staff)\
+\
+---\
+\
+## 1. Policy on Continuous Improvement of Study Programs\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-PLC-002-EN\
+- **Effective Date:** 27.03.2018\
+- **Pages:** 4\
+\
+### \uc0\u55356 \u57263  Purpose and Application\
+- **Purpose:** Fundamental to University's mission for quality improvement\
+- **Application:** All University study programs\
+- **Method:** Uses qualitative and quantitative data including student/stakeholder feedback\
+\
+### \uc0\u55357 \u56523  Policy Statement\
+EPOKA University systematically evaluates and improves study program quality to achieve high efficiency, effectiveness, and stakeholder satisfaction.\
+\
+### \uc0\u55357 \u56421  Responsibilities\
+- Administered by: Department, Faculty, Curriculum Development Commission, Permanent Commission on Quality Assurance, Academic Senate\
+\
+### \uc0\u55357 \u56523  Definitions\
+| Term | Definition |\
+|------|------------|\
+| Continuous Improvement | Ongoing effort to improve products, services, or processes |\
+| Accreditation | Recognition status for study program meeting minimum quality standards |\
+| Decanate | Executive collegial decision-making body at Faculty level |\
+| Program Learning Outcome | Statements of what learner knows, understands, and can do after learning |\
+\
+### \uc0\u55357 \u56522  Policy Details\
+#### 4.1 Program Accreditation\
+- **Timing:** Apply 1 year before accreditation expiration\
+- **Requirements:**\
+  - Internal evaluation by Department\
+  - External evaluation by ASCAL-appointed team\
+  - All programs must be accredited for Albanian recognition\
+- **Action Plan:** Departments develop improvement plans based on Accreditation Board recommendations\
+- **Oversight:** Faculty oversees implementation, provides progress report within 1 year\
+\
+#### 4.2 Program Performance\
+- **Frequency:** Annual review\
+- **Data Sources:** Department assessment database including:\
+  - Teaching performance indicators\
+  - Research performance indicators\
+  - Societal responsiveness\
+  - Department annual reports\
+  - Strategic measures\
+- **Outcome:** Identify amendments for program success\
+\
+#### 4.3 Program Review\
+- **Focus:** Meet national/international labor market needs\
+- **Improvement Drivers:**\
+  1. Institution's goals and mission\
+  2. National Accreditation standards\
+  3. European Standards and Guidelines (ESG)\
+  4. National Qualifications Framework\
+  5. Technology/skills/competency needs\
+  6. Labor market and student needs\
+  7. Current student feedback\
+  8. Alumni feedback\
+\
+**Change Proposal Process:**\
+1. **Department:** Proposes change \uc0\u8594  Decanate\
+2. **Decanate:** Recommends change \uc0\u8594  Curriculum Development Commission\
+3. **Curriculum Development Commission:** Provides feedback/approval \uc0\u8594  Permanent Commission on Quality Assurance\
+4. **Permanent Commission on Quality Assurance:** Reviews \uc0\u8594  Academic Senate for final approval\
+\
+#### 4.4 Teaching and Courses Evaluation\
+- **Frequency:** End of each semester\
+- **Tools:**\
+  - Instructor/Course Evaluation Survey\
+  - Teaching Evaluation Form (class visits by Dean/Heads of Departments)\
+- **Process:**\
+  1. Results available in Epoka Interactive System\
+  2. Low-rated lecturers meet with Dean to discuss issues\
+  3. Decanate reviews results semesterly\
+  4. Transform findings into improvement recommendations\
+  5. Provide feedback to students on actions taken\
+\
+#### 4.5 Assessment of Program Learning Outcomes\
+- **Timing:** After each academic year\
+- **Method:** Review student results on assessments measuring learning outcomes\
+\
+#### 4.6 Assessment of Learning Outcome Validity\
+- **Frequency:** Annual\
+- **Administrator:** Career Planning and Alumni Office\
+- **Tool:** Alumni Survey on knowledge/skills/competency applicability\
+- **Process:** Summary report to Departments \uc0\u8594  Review results \u8594  Modify outcomes/objectives if needed\
+\
+### \uc0\u55357 \u56526  Related Documents\
+- Curricula Proposal Form\
+- Instructor/Course Evaluation Survey\
+- Teaching Evaluation Form\
+- Alumni Survey\
+\
+### \uc0\u55357 \u56541  Revision History\
+| Revision | Date | Reason | Effective Date |\
+|----------|------|---------|----------------|\
+| 00 | --- | Initial Release | --- |\
+| 01 | --- | \'95 xxxxxxxx | --- |\
+\
+### \uc0\u55357 \u56421  Responsible Units\
+- **Drafting:** Internal Quality Assurance Office\
+- **Controlling:** Permanent Commission on Quality Assurance\
+- **Approving:** Rectorate\
+\
+---\
+\
+## 2. Policy on Participation of Academic Staff in External Activities\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-PLC-003-EN\
+- **Effective Date:** 19.11.2019\
+- **Latest Amendment:** 19.09.2023\
+- **Pages:** 3\
+\
+### \uc0\u55356 \u57263  Purpose\
+Recognizes importance of supporting staff in scholarly presentations while ensuring consistency with University mission and regulations.\
+\
+### \uc0\u55357 \u56523  Scope\
+Establishes principles governing travel planning during academic year and summer months.\
+\
+### \uc0\u55356 \u57314  Implementation Field\
+All academic and assisting academic staff members.\
+\
+### \uc0\u9992 \u65039  Travel Regulations During Teaching Period\
+#### General Limits\
+1. **Maximum Days:** 10 working days per teaching semester for:\
+   - Academic/professional conferences\
+   - Symposia, workshops, seminars\
+   - Scientific activities\
+   - Board service\
+   - Other travel activities\
+   - **Restriction:** No travel during Mid-term Exam week for Bachelor/Integrated Second Cycle programs\
+\
+2. **Frequency Limit:** One academic/professional event per teaching period\
+   - Additional events may be approved for summer periods\
+   - Events cannot fall in two consecutive weeks during semester\
+\
+3. **Event Duration:**\
+   - **International:** \uc0\u8804 5 working days + reasonable travel time\
+   - **National:** \uc0\u8804 3 working days + reasonable travel time\
+   - **Extension:** Negotiate with Head of Department and Dean\
+\
+4. **Institutional Importance Exceptions:**\
+   - Rectorate may approve participation in important events advancing:\
+     - Institution's profile/reputation\
+     - Department/Faculty profile/reputation\
+     - Required for international collaboration\
+   - Case-by-case basis\
+\
+5. **Teaching Mobility:**\
+   - One experience per academic year during teaching period\
+   - Duration: Normally \uc0\u8804 5 working days + travel days\
+   - Additional summer experiences negotiable\
+\
+6. **Externally Funded Projects:**\
+   - Outside policy scope\
+   - Case-by-case basis, negotiate with Head of Department and Dean\
+\
+#### Planning and Reporting Requirements\
+9. **Advance Planning:** Request permission and funding 30 days before travel\
+10. **Post-Travel Duties:**\
+    - Fulfill reporting duties\
+    - Conduct Make-up Classes per Rectorate procedure\
+\
+### \uc0\u55357 \u56526  Related Documents\
+1. Procedure: "Reporting and other duties of staff members who participate in conferences, seminars, symposiums, project activities, mobility programs and other related activities outside the University"\
+2. Application Form on Participation in Activities held outside the University\
+3. Briefing Report on Participation in Activities representing the University\
+4. Narrative Report on Participation in Activities held outside the University\
+\
+### \uc0\u55357 \u56541  Revision History\
+| Revision | Date | Reason | Effective Date |\
+|----------|------|---------|----------------|\
+| 00 | --- | Initial Release | --- |\
+| 01 | 19.09.2023 | \'95 Ensure proper conduct of Mid-term Exams in Bachelor and Integrated Second Cycle Study Programs | 19.09.2023 |\
+\
+### \uc0\u55357 \u56421  Responsible Units\
+- **Drafting:** Institutional and Legal Affairs Office\
+- **Controlling:** Rector's Office\
+- **Approving:** Rectorate\
+\
+---\
+\
+## 3. Regulation on Discipline of Managing, Academic and Administrative Staff\
+\
+### \uc0\u55357 \u56516  Document Information\
+- **Code:** EU-REG-016-EN\
+- **Effective Date:** 10.10.2009\
+- **Pages:** 11\
+\
+### \uc0\u55356 \u57263  Scope and Field\
+- **Scope:** Defines disciplinary sanctions for leading, academic, and administrative staff\
+- **Field:** Defines violation types, sanctions, competent authorities, disciplinary councils, firing, and complaint procedures\
+\
+### \uc0\u9878 \u65039  Disciplinary Sanctions\
+| Sanction | Definition |\
+|----------|------------|\
+| Warning | Document indicating need for more careful work/behavior |\
+| Critics | Document showing deficiencies in work/behavior |\
+| Cutting monthly wage | Cut of 1/8 to 1/30 of monthly gross wage |\
+| Removal from leading position | Removal from Rector, Dean, Director, Head positions |\
+| Withdrawn from work | Interrupting work relations at employee's request |\
+| Firing | Termination without right to return |\
+\
+### \uc0\u55357 \u57000  Violations and Corresponding Sanctions\
+#### Warning (Article 5)\
+Applies for:\
+- Incomplete/untimely order/duty fulfillment\
+- Procedure non-compliance\
+- Poor document/equipment management\
+- Tardiness/early leaving without reason/permission\
+- Institution measurement non-respect\
+- Inappropriate behavior for position\
+- Improper application/complaint procedures\
+- Undignified behavior with students\
+- Unauthorized publication of organ discussions/decisions\
+- Untimely/unreasoned replies to competent organs\
+- Non-work-related activities during work time\
+- Neglect of staff professional development\
+\
+#### Critics (Article 6)\
+Applies for:\
+- Complete/timely order/duty non-fulfillment\
+- Irregular document/equipment storage/usage\
+- Disrespect toward leaders during duty\
+- Reputation-harming attitudes/actions\
+- Personal use of University tools/equipment\
+- Loss of official University documents/items\
+- Bickering with colleagues/support staff/students\
+- Misconduct in work environments\
+- Harassment of colleagues/directors\
+- Unreasonable appeals to decisions/orders\
+- Work regularity/peace/order disturbance\
+- Non-information/disinformation on important issues\
+- Private paid lessons for University students\
+- Unauthorized publication of organ discussions\
+\
+#### Cutting Monthly Salary (Article 7)\
+Applies for:\
+- Complete/timely order/duty non-fulfillment\
+- Irregular document/equipment management\
+- Personal use of University property\
+- Lies/disinformation to competent individuals\
+- Offensive/humiliating actions toward staff/students\
+- Reputation-harming attitudes/actions\
+- Prohibited publications in work environment\
+- Unauthorized leaking of University discussions/decisions\
+- Benefit-seeking from supervised enterprises\
+- Theft/damage of University announcements/documents\
+- Forgery/use of forged documents\
+- Unauthorized use of University spaces\
+- Unjustified non-participation in meetings/work\
+- Drunkenness/alcohol use at work\
+- Improper report/document preparation\
+- Unauthorized income-generating activities\
+- Discrimination (language, religion, race, gender, politics, sects)\
+- Purposeful non-compliance with orders/duties\
+- Gift solicitation/acceptance for favors\
+- Obstruction of University programs\
+- Unauthorized announcement/document preparation/distribution\
+- Boycott/participation in order-undermining activities\
+\
+#### Removal from Leading Position (Article 8)\
+Applies for:\
+- Pursuit of personal interests by leader\
+- Non-respect/non-implementation of superior/Board decisions\
+- Failure to ensure productive/peaceful work environment\
+- Non-submission of annual work reports without justification\
+- Non-conduction of required council meetings after warning\
+- Neglect of director duties\
+\
+#### Withdrawn from Work (Article 9)\
+Applies for:\
+- Non-start of work within 15 days of appointment without permission/reason\
+- 10-day absence without permission/reason (2+ days for part-time)\
+- Non-attendance at 2 consecutive or 3 yearly council meetings without permission/reason\
+\
+#### Firing (Article 10)\
+Applies for:\
+- Ideological/political work order deterioration\
+- Organized boycott/occupation/work prevention\
+- Prohibited political/ideological material distribution\
+- 20-day unauthorized absence in 1 year (3 days for part-time)\
+- Violation of University personnel/students\
+- Inappropriate/disgraceful conduct by academic staff\
+- Membership/support of illegal organizations\
+- Obstruction of learning process/examinations\
+- Narcotic substance use\
+- Threats/false testimony/guilt assumption\
+\
+### \uc0\u55357 \u56523  Additional Disciplinary Provisions\
+#### Article 11: Unpredicted Violations\
+- Competent authority may grant same measures for similar actions based on circumstances/significance\
+\
+#### Article 12: Violation Repetition\
+- Repeated violations: One degree heavier sanction than previous\
+\
+#### Article 13: Positive Rating\
+- Staff with "good" or "very good" rating: One degree easier sanction than normal\
+\
+### \uc0\u55356 \u57307  Disciplinary Councils\
+#### Authority Structure (Article 14)\
+- **Warning/Critics:** Person in charge of disciplinary proceedings\
+- **Withdrawn/Removal:** Direct superior leader\
+- **Salary Cut/Firing:** Requires consent of disciplinary proceedings person + Disciplinary Council decision + Rector order\
+\
+#### Council Composition (Article 15)\
+- **Hierarchy Restrictions:**\
+  - Assoc/Assist Professors cannot judge Professors\
+  - Assist Professors cannot judge Assoc Professors\
+  - Members cannot judge issues related to themselves\
+- **Multiple Offenders:** Determined by highest degree/position\
+\
+#### Council Procedures\
+- **Meetings (Article 16):** Called by President who sets place/time\
+- **Quorum (Article 17):** >50% members for validity\
+- **Reporting (Article 18):** Member appointed by president, prepares file within 3 days\
+- **Review (Article 19):** Report \uc0\u8594  Discussion \u8594  Questioning (if needed) \u8594  Voting\
+- **Voting (Article 20):** \
+  - For/against only (no abstention)\
+  - Absolute majority required\
+  - President votes last, breaks ties\
+  - Details signed by all present members\
+- **Decision Authority (Article 21):** Council free to accept/reject investigation recommendations\
+- **Decision Timing (Article 22):**\
+  - Warning/Critics: Within 7 days of process completion\
+  - Salary Cut/Firing: Within 1 month of file opening\
+- **Investigation Rights (Article 23):** Council can inquire files, hear witnesses, examine evidence\
+- **Decision Writing (Article 24):** Written within 5 days, signed by chairman/members\
+- **Decision Communication (Article 25):** To interested person within 5 days of signing\
+\
+### \uc0\u55357 \u56613  Firing Procedures\
+#### Definition (Article 26)\
+- Long-term precautionary measure for staff presenting work performance risk\
+- Can be taken during disciplinary procedure\
+\
+#### Competence (Article 27)\
+- By direct supervisor who assigned duty\
+\
+#### Responsibility (Article 28)\
+- Proceedings must begin within 10 days of reason verification\
+- Legal/material responsibility for non-compliance\
+\
+#### Rights During Proceedings (Article 29)\
+- Paid 2/3 monthly salary\
+- Continue social assistance benefits\
+- If fired as safeguard: Paid 1/3 salary until proceedings end\
+\
+#### Removal of Sanctions (Article 30)\
+- Except dismissal: Sanctions hidden after proceedings\
+- Dismissal: Apply Article 28 provisions\
+\
+#### Re-beginning Work (Article 31)\
+- Required when:\
+  - Dismissal precaution taken but other sanction given\
+  - Investigation removed due to amnesty\
+  - Precaution lasts three months\
+\
+#### Freedom (Article 32)\
+- Dismissal can be deleted if actions not obstacle to service continuity\
+\
+### \uc0\u9878 \u65039  Disciplinary Procedure\
+#### Responsible Persons (Article 33)\
+- **Appointed Person:** Conducts proceedings directly/through others\
+- **Initiation:** Rector (University-wide) or Dean (unit employees)\
+- **Investigator Qualification:** Equal/higher academic title than investigated\
+- **Multiple Proceedings:** Joined and judged by highest body\
+\
+#### Timing (Article 34)\
+- **Initiation:** Within 1 month of violation knowledge\
+- **Prescription:** 6 months from violation commission\
+- **Management/Finance Violations:** \uc0\u8804 1 year from commission to proceedings\
+\
+#### Duration (Article 35)\
+- **Notification:** Without delay to subject\
+- **Completion:** Within 1 month from assignment notification\
+- **Extension:** Request additional time, inform higher position\
+\
+#### Development Manner (Article 36)\
+- **Methods:** Hear witnesses, hold investigations, require experts, appoint commissions\
+- **Recording:** All methods recorded in registry with details\
+- **Staff Obligation:** Provide required information without delay\
+- **Delay Consequences:** Subject to separate disciplinary proceedings\
+\
+#### Right of Defense (Article 37)\
+- **Requirement:** Must be given before disciplinary measures\
+- **Timeframe:** 3 days given by designated person/council\
+- **Non-Exercise:** Considered abandonment of right\
+\
+#### Report (Article 38)\
+- **Contents:** Proceedings adoption, dates, identities, alleged violation, investigation stages, evidence, defense\
+- **Investigation:** Each violation separately\
+- **Submission:** To competent authority without delay\
+\
+### \uc0\u9878 \u65039  Enforcement and Complaint\
+#### Enforcement (Article 39)\
+- **Effect:** Immediate after granting\
+- **Salary Cut:** Applied following month\
+- **Announcement:** To direct superior of subject\
+\
+#### Complaint (Article 40)\
+- **Warning/Critics:** To highest hierarchical level or disciplinary councils\
+- **Decision:** Final\
+\
+#### Timing and Procedures (Article 41)\
+- **Deadline:** 7 days from decision\
+- **Non-filing:** Decision considered final\
+- **Appeal Body:** Can give same, alleviate, or abolish measure\
+- **Decision Timing:** Within 7 days of submission\
+- **Breach/Deletion:** Must be carried out\
+\
+#### Deletion After Period (Article 42)\
+- **Recording:** In registry\
+- **Deletion:** After 2 years upon request of granting body\
+- **Good Behavior:** Deleted from registry, decision attached to file\
+\
+### \uc0\u55357 \u56523  Additional Provisions\
+#### Registration Maintenance (Article 43)\
+- Notebook with marked pages for all disciplinary proceedings stages\
+- Responsibility: Secretary-General or Secretaries\
+\
+#### File Submission (Article 44)\
+- To competent person/body upon signature in confidentiality\
+\
+### \uc0\u55357 \u56517  Implementation\
+- **Effective Date:** Senate approval day\
+- **Enforcement Supervision:** Rector of Epoka University\
+\
+### \uc0\u55357 \u56421  Responsible Units\
+- **Drafting:** Senate\
+- **Controlling:** Academic Evaluation and Quality Improvement Board\
+- **Approving:** Higher Board}

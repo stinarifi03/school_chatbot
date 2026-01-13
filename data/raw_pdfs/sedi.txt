@@ -1,0 +1,251 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # EPOKA UNIVERSITY POLICIES AND REGULATIONS\
+\
+## 1. DIRECTIVE ON STUDENT TRANSFER (EU-DIR-017-EN)\
+**Last Updated:** 31.03.2021\
+\
+**Purpose:** Regulates procedures for student transfers within EPOKA University and from other higher education institutions.\
+\
+### Key Points:\
+- **Application Period:** Must be submitted during specified academic calendar period\
+- **Decision Time:** Within one week after document submission\
+- **Intra-University Transfer:**\
+  - Bachelor's: Minimum 2 semesters completed\
+  - Master's: Minimum 1 semester completed\
+  - Minimum grade requirements: 1.00/4.00 (Bachelor's), 2.50/4.00 (Master's)\
+- **Inter-University Transfer:**\
+  - From other universities: Minimum 2 semesters completed\
+  - Credit recognition limits: 2/3 (Bachelor's), 3/4 (Integrated Master's)\
+- **Requirements:**\
+  - No transfers during first/second/final semesters\
+  - No disciplinary record\
+  - English proficiency certificate required\
+  - Only one transfer allowed per student\
+\
+## 2. DIRECTIVE ON THE PROMOTION OF SCIENTIFIC PUBLICATIONS (EU-DIR-004-EN)\
+**Last Updated:** 04.06.2025\
+\
+**Purpose:** Encourages academic staff to publish and participate in scientific activities.\
+\
+### Key Points:\
+- **Support Commission:** Appointed by Rectorate annually\
+- **Reward Calculation:** Based on points \'d7 financial coefficient\
+- **Publication Categories:**\
+  - SCI/SSCI/AHCI journals: Points based on quartile and Impact Factor\
+  - Scopus journals: 300 points\
+  - Books: 300-500 points based on publisher ranking\
+  - Patents: 1000-2000+ points\
+- **Author Share:**\
+  - 2 authors: 60%/40%\
+  - 3 authors: 50%/30%/20%\
+  - 4+ authors: 40%/30%/20%/10% (remaining)\
+- **Eligibility:** Only publications under EPOKA University name\
+- **Internal Collaboration Required:** \uc0\u8805 2 EPOKA staff for journal articles\
+- **Conference Support:** For international conferences indexed in Scopus/Web of Science\
+- **Annual Cap:** Reward \uc0\u8804  one month's gross salary (excluding patents)\
+\
+## 3. DIRECTIVE ON STUDENT CLUBS (EU-DIR-005-EN)\
+**Last Updated:** 31.03.2021\
+\
+**Purpose:** Regulates establishment, organization and functioning of student clubs.\
+\
+### Key Points:\
+- **Establishment:** Minimum 6 students + EPOKA staff advisor\
+- **Activities:** One academic year duration\
+- **Membership:** Open only to students; alumni as honor members\
+- **Organs:**\
+  - Dean of Students: Approves requests, programs, changes\
+  - Club Advisor: Monitors establishment and functioning\
+  - Club Board: Administrative board (President, VP, Treasurer, etc.)\
+  - Student Clubs and Activities Office: Audits, prepares reports\
+- **Documents Required:** Registration list, meeting register, materials registration\
+- **Finances:** Small cash allowed; all expenses/revenues must be documented\
+- **Closure:** For rule violations or inactivity (2 months without activities)\
+\
+## 4. DIRECTIVE ON THE FUNCTIONING OF THE EXAM BOARD (EU-DIR-020-EN)\
+**Last Updated:** 15.12.2020\
+\
+**Purpose:** Determines duties of Exam Board to ensure exam quality.\
+\
+### Key Points:\
+- **Composition:** Chairperson + at least one representative from each Faculty\
+- **Duties:**\
+  - Establish exam guidelines\
+  - Monitor exam organization and invigilation\
+  - Ensure compliance with schedule\
+  - Monitor quality assurance\
+  - Evaluate fraud cases\
+  - Evaluate grade appeals\
+  - Review grade statistics\
+  - Prepare annual report\
+- **Expert for Study Program:** Assesses exam quality (at least one exam per semester)\
+- **Meetings:** At least 2 general meetings + 4 semester meetings\
+- **Annual Report:** Includes activities, grade distribution, fraud cases, improvement proposals\
+\
+## 5. LIBRARY DIRECTIVE (EU-DIR-002-EN)\
+**Last Updated:** 14.09.2007\
+\
+**Purpose:** Enables users to benefit from library resources and protects these resources.\
+\
+### Key Points:\
+- **Users:** Students, staff, and approved guest users\
+- **Rules Inside Library:** No food/drinks, no mobile phones, protect personal property\
+- **Borrowing:**\
+  - Students: 3-5 items for 15-20 days\
+  - Staff: 5 items for 20 days\
+  - Magazines: 2 items for 5 days\
+- **Overdue Fees:** Calculated per day per item\
+- **Lost/Damaged Resources:** Must pay replacement cost + overdue fees\
+- **Sanctions:**\
+  - No borrowing with unpaid debts\
+  - Membership frozen for 2 years for irreplaceable rare resources\
+  - Banned for 1 year for improper behavior\
+\
+## 6. DIRECTIVE ON ASSIGNMENT TO DUTY (EU-DIR-007-EN)\
+**Last Updated:** 08.10.2009\
+\
+**Purpose:** Regulates task assignment of academic staff within and abroad.\
+\
+### Key Points:\
+- **Temporary Duty:** \uc0\u8804 1 month for scientific meetings/research\
+  - \uc0\u8804 1 week: Department Head + Dean approval\
+  - >15 days: Rector approval\
+  - Apply 10-20 days in advance\
+- **Long-term Duty:** >1 month for research/graduate studies\
+  - Minimum 3 years as academic staff + 1 year teaching\
+  - \uc0\u8804 1 year with remuneration (can extend 1 year without)\
+- **Research Assistants:** Up to 3 years for graduate studies\
+- **Compulsory Service:** Twice the assignment term; compensation if not fulfilled\
+- **Reports:** Quarterly reports for graduate studies; final report before duty ends\
+\
+## 7. REGULATION ON PERMISSIONS (EU-REG-015-EN)\
+**Last Updated:** 17.06.2016\
+\
+**Purpose:** Regulates permission in/out of country for academic and administrative staff.\
+\
+### Key Points:\
+- **Permission Types:**\
+  - Yearly Leave: 28 days (Albanian staff), 35 days (foreign staff)\
+  - Justified Permission: Marriage (5-10 days), birth (2-7 days), death (5-7 days)\
+  - Medical Permission: Up to 6 months\
+  - Maternity Leave: 126 paid days (70 before + 56 after birth)\
+  - Unpaid Permission: Up to 6 months for family care\
+  - Daily Permission: Up to 1 day\
+- **Approval Authorities:** Rector, Dean, Secretary General based on duration and reason\
+- **Penalties:** Wage deductions for unauthorized absences\
+- **No Permission During:** Academic calendar except with adjusted teaching process\
+\
+## 8. REGULATION ON SECOND CYCLE STUDY PROGRAMS (EU-REG-017-EN)\
+**Last Updated:** 06.03.2025\
+\
+**Purpose:** Determines functioning of Master's study programs.\
+\
+### Key Points:\
+- **Program Types:**\
+  - Master of Science: 2 years, 120 ECTS, thesis required\
+  - Professional Master: 1 year, 60 ECTS, microthesis required\
+  - Integrated Second Cycle: 5 years, 300 ECTS\
+- **Admission Requirements:**\
+  - First/Second cycle diploma\
+  - English proficiency: B2 (Master of Science), B1 (Professional Master)\
+  - Minimum CGPA determined by Decanate\
+- **Attendance:** 60% lectures, 75% practice, 75% laboratories\
+- **Grading:** AA-FF scale; minimum CC to pass; CGPA \uc0\u8805 2.00 to graduate\
+- **Thesis:**\
+  - Master of Science: 4th semester with professional practice\
+  - Professional Master: 2nd semester microthesis\
+- **Student Rights:** Clear rules, non-discrimination, use of facilities, free expression\
+- **Student Responsibilities:** Comply with regulations, ethical behavior, timely payments\
+\
+## 9. REGULATION ON SCIENTIFIC RESEARCH (EU-REG-038-EN)\
+**Last Updated:** 15.12.2020\
+\
+**Purpose:** Regulates organization of scientific research activities.\
+\
+### Key Points:\
+- **Research Activities:** Basic/applied research, conferences, publications, patents\
+- **Organization:** Coordinated by Research and Projects Office\
+- **Funding:** University budget + external partners\
+- **Individual Budget Lines:**\
+  - International conference participation\
+  - Publication in indexed journals\
+- **Project Compensation:** Staff costs minus 30% institutional expenses\
+- **Best Researcher Award:** Annual award determined by Rectorate\
+- **Publications:** Regulated by Directive on Promotion of Scientific Publications\
+\
+## 10. REGULATION ON THE CENTER FOR EUROPEAN STUDIES (EU-REG-009-EN)\
+**Last Updated:** 14.09.2007\
+\
+**Purpose:** Defines purpose, activity, and governing bodies of EUCES.\
+\
+### Key Points:\
+- **Activities:** Research on EU law/policies, integration process, conferences, publications\
+- **Governing Bodies:**\
+  - Director: Appointed by Rector for 3 years\
+  - Administrative Board: 4 members + Director\
+  - Advisory Board: \uc0\u8805 7 specialists\
+- **Publication:** International journal "EUCES"\
+- **Personnel:** Appointed by Rector\
+- **Financing:** Managed by Rector\
+\
+## 11. REGULATION ON PHD STUDY PROGRAMS (EU-REG-034-EN)\
+**Last Updated:** 24.10.2018\
+\
+**Purpose:** Defines rules for PhD program functioning.\
+\
+### Key Points:\
+- **Admission Requirements:**\
+  - Master's degree or equivalent\
+  - CGPA \uc0\u8805 2.70/4.00\
+  - English proficiency C1 level\
+  - PhD proposal in approved research area\
+- **Program Structure:**\
+  - Stage 1: Theoretical training (60 ECTS, 1 year)\
+  - Stage 2: Dissertation writing\
+- **Duration:** 3-5 years full-time\
+- **Supervision:**\
+  - Professor: \uc0\u8804 7 students\
+  - Associate Professor: \uc0\u8804 5 students\
+  - Part-time: \uc0\u8804 3 students\
+- **Publication Requirements Before Defense:**\
+  - 3 presentations (2 international)\
+  - 3 journal articles (2 in indexed journals)\
+- **PhD Jury:** 5 members (\uc0\u8805 3 Professors)\
+- **Honorary Doctorate:** \uc0\u8804 2 per year for distinguished persons\
+\
+## 12. REGULATION ON PUBLICATIONS (EU-REG-013-EN)\
+**Last Updated:** 14.09.2007\
+\
+**Purpose:** Regulates publications issued by EPOKA University units.\
+\
+### Key Points:\
+- **Publication Commission:** 2 Administrative Board members + Vice-Rector chair\
+- **Copyright Payment:** Based on page count and civil servant coefficient\
+  - Textbooks: 175 points\
+  - Auxiliary textbooks: 125 points\
+  - Translation: 100-125 points\
+- **Distribution:** Free copies to Ministry, libraries, teaching staff\
+- **Sales:** Minimum 20% discount to students\
+- **Subsequent Editions:** 3/5 of first edition copyright\
+- **Cost Coverage:** University budget or circulating capital company\
+\
+---\
+\
+**APPROVAL AUTHORITIES:**\
+- Academic Senate: Primary approving body for most regulations\
+- Rector: Ensures enforcement\
+- Higher Board: Approves certain regulations\
+- Administrative Board: Financial and administrative decisions\
+\
+**COMMON THEMES:**\
+- Compliance with Law 80/2015 "On Higher Education"\
+- English proficiency requirements\
+- Quality assurance mechanisms\
+- Disciplinary procedures for violations\
+- Regular reporting and evaluation}

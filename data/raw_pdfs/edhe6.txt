@@ -1,0 +1,77 @@
+1. Student-Related Directives
+Directive "On Student Clubs"
+	•	 Objective and Scope: Regulates the establishment, organization, and functioning of student clubs under the supervision of the Student Clubs and Activities Office.  
+	•	 Establishment: Requires at least six students to submit a request, a draft statute, and a signed document from a staff member accepting the role of Student Club Advisor.  
+	•	 Maintenance: Clubs must undertake activities within two months of the academic year start or face a warning from the Dean of Students. The Dean has the authority to suspend or cease club activities if necessary.  
+Directive "On Student Transfer"
+	•	 Purpose: Determines procedures for internal (intra-university) and external (inter-university) transfer applications.  
+	•	 Procedure: Applications must be submitted to the Admission Office and are reviewed by the respective Department and Decanate.  
+	•	Grade Conversion:
+	◦	 Intra-transfer: Grades are recognized as letter grades.  
+	◦	 Inter-transfer: Grades are recognized as a "T" letter grade, and the graduation GPA is based only on courses taken at EPOKA.  
+Policy "On Students with Disabilities"
+	•	 Commitment: Aims to provide a supportive environment through inclusive practices and "reasonable adjustments" to remove barriers to participation.  
+	•	 Student Responsibilities: Students must notify the Dean of Students Office of any special educational needs well in advance of teaching activities.  
+	•	 Exchange Programs: Consent is required to share disability-related information with host institutions to ensure continued support during mobility.  
+
+2. Academic and Examination Guidelines
+Directive "On the Functioning of the Exam Board"
+	•	 Role: Ensures the quality of examinations across Departments and Faculties.  
+	•	 Key Definitions: Defines "Additional Exams" for students at the graduation stage with failed grades (FD/FF) and "Expert" members appointed to evaluate test quality.  
+	•	 Reporting: The Board must submit an annual report covering fraud cases, grade distribution, and proposals for assessment quality improvement.  
+Guidelines for Mid-term, Final, and Resit Exams (COVID-19 Period)
+	•	 Online Modalities: Specific guidelines were issued for the 2019-2020 and 2020-2021 semesters to manage online examinations due to the pandemic.   
+	•	 Documentation: Course instructors are required to submit an "exam envelope" within five working days of grade entry, including the answer key, signed grade lists, and evidence of the online conduct (e.g., screenshots or CDs).   
+	•	 Integrity: Modalities aimed to ensure fair evaluation despite the impossibility of full invigilation during video sessions.  
+Guideline "On the Conduct of Professional Practice at Professional Master Study Programs"
+	•	 Definition: An academic activity where students apply classroom knowledge in a practical environment, supervised by both a Departmental and a Site Supervisor.  
+	•	 Assessment: Evaluated using specific performance forms (Excellent to Unsatisfactory) and a final report examined by the Department.  
+
+3. Staff and Administrative Regulations
+Directive "On the Teaching Load"
+	•	Weekly Load Calculation: Defined by role and rank:
+	◦	 Rector: 6 hours.  
+	◦	 Dean: 9 hours.  
+	◦	 Head of Department: 12 hours.  
+	◦	 Professor/Lecturer (PhD): 16 hours.  
+	◦	 Assistant Lecturer: 18 hours.  
+	•	 Payments: Full-time staff must submit a "Lecturer Fee Request Form" monthly to the Finance Office for processing.  
+Regulation on Staff Discipline
+	•	 Scope: Covers managing, academic, and administrative staff.  
+	•	 Sanctions: Includes "Warning," which notifies a person they must improve their conduct.  
+	•	 Record Keeping: Disciplinary proceedings are recorded in a notebook managed by the Secretary-General. Records may be deleted after two years of good behavior.  
+Policy on Outside Activities and Travel
+	•	 Purpose: Supports staff participation in national and international academic venues while ensuring consistency with the university's mission.  
+	•	 Limits: Staff members are limited to ten (10) working days per teaching semester for travel related to conferences, seminars, or board service.  
+
+4. Institutional Centers and Quality Assurance
+Directive on the Yunus Center (YCSBS)
+	•	 Mission: Focused on building social business awareness and addressing economic and social challenges.   
+	•	 Governance: Managed by a Director, an Advisory Committee (AC), and an Administrative Board (AB).   
+	•	 Finance: Income from projects is distributed between the Center and the University according to Working Capital principles.   
+Policy "On Continuous Improvement of Study Programs"
+	•	 Strategy: Uses student and stakeholder feedback to identify strengths and weaknesses.  
+	•	 Surveys: The Career Planning and Alumni Office conducts annual alumni surveys to assess the applicability of gained skills.  
+Policy on Research Centers and PhD Programs
+	•	 Coordination: Administered by Departments and Research Centers to promote high-quality scientific output.  
+	•	 Support: PhD students receive financial support for research projects in accordance with the "Directive on Promotion of Scientific Publications".  
+
+5. Data Privacy and Security
+Data Protection and Privacy Policies
+	•	 Legal Alignment: Policies align with Law No. 124/2024 and incorporate GDPR principles.  
+	•	 Roles: Includes a Data Protection Officer (DPO), Data Controllers, and Data Processors.  
+	•	 Subject Rights: Includes rights to access, rectification, erasure, and data portability.  
+	•	 International Transfers: Permitted only with appropriate safeguards, such as standard contractual clauses approved by the Commissioner.   
+Guideline "On the Functioning of the CCTV System"
+	•	 System Description: Relies on an IP network infrastructure using Netgear Prosafe switches.  
+	•	 Operation: Access to the Control Room is restricted and requires staff verification.  
+	•	 Image Processing: Covers recording, viewing, and the removal of digital media.  
+
+6. Facilities and Campus Life
+Directive "On the Library"
+	•	 Usage Rules: Users must avoid consuming food, beverages, or tobacco inside the library.  
+	•	 Sanctions: Violating library rules can result in being barred from the library for one year and potential disciplinary investigation.  
+COVID-19 Health Protection Guidelines
+	•	 Measures: Includes mandatory mask-wearing, social distancing, and temperature screening.  
+	•	 Visitor Protocol: Visitors with a temperature above 37.5°C or those who refuse screening are denied entry.  
+	•	 Transportation: During peak pandemic periods, the university encouraged private vehicle use and restricted bus services to those who provided advance notification. 

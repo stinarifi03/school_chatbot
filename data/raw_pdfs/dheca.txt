@@ -1,0 +1,191 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # EPOKA UNIVERSITY COMPREHENSIVE KNOWLEDGE BASE: DIRECTIVES AND GUIDELINES\
+\
+## 1. Directive on Student Clubs (EU-DIR-005-EN)\
+**Objective**: To regulate the establishment, organization, and functioning of student clubs, ensuring student participation in extracurricular scientific, social, cultural, and sports activities.\
+\
+### Establishment and Registration (Art. 3)\
+* **Minimum Requirement**: At least six students must submit a request.\
+* **Documentation**: Requires a draft-statute and a signed document from a staff member agreeing to be the **Student Club Advisor**.\
+* **Review**: The activity field cannot overlap with existing clubs. Approval is granted by the **Dean of Students**.\
+\
+### Membership and Participation (Art. 5)\
+* Open to all matriculated students. Students can join multiple clubs.\
+* Alumni can be "Honor Members" (no voting rights).\
+* "Active Members" are those participating for at least two semesters.\
+\
+### Monitoring and Closure (Art. 10-11)\
+* **Program Submission**: Clubs must submit a draft-program and budget at the start of each year.\
+* **Inactivity Warning**: Clubs inactive for two months after the start of the year receive a written warning.\
+* **Closure**: The Dean of Students can close a club for failure to comply with warnings or statutes.\
+\
+---\
+\
+## 2. Directive on Student Transfer (EU-DIR-017-EN)\
+**Objective**: Procedures for Intra-University (internal) and Inter-University (from other HEIs) transfers.\
+\
+### Application and Decisions (Art. 3-4)\
+* **Timeline**: Applications follow the academic calendar.\
+* **Response**: Decisions are typically made within **one week** of document submission to the Admission Office.\
+* **Approval**: Reviewed by the Department and approved by the Faculty Decanate.\
+\
+### Bachelor and Master Transfer Specifics (Art. 5)\
+* **Bachelor**: Transfers possible between 2nd-6th semesters (3-year) or 8th semester (4-year). Minimum course grade for credit: **1.00/4.00**.\
+* **Master**: Transfers only at the start of the year. Requires a minimum **CGPA of 2.00/4.00**. Minimum course grade for credit: **2.50/4.00**.\
+\
+### Grade Conversion (Art. 8)\
+* **Intra-transfer**: Grades are recognized as letter grades.\
+* **Inter-transfer**: Grades are recognized as "T" (Transfer) grades. CGPA for graduation is based only on courses taken at Epoka.\
+\
+---\
+\
+## 3. Directive on Staff Assignment to Duty (EU-DIR-007-EN)\
+**Objective**: Regulates domestic and international task assignments for academic staff.\
+\
+### Assignment Categories (Art. 2)\
+* **Temporary Duty**: Up to **1 month** (scientific meetings/research). Over 15 days requires Faculty Board permission and a detailed report.\
+* **Long-term Duty**: Over **1 month** (research or graduate studies). Requires approval from both Faculty and University Administrative Boards.\
+\
+### Reporting and Obligations (Art. 6-7)\
+* **Seniority**: Requires 3 years at Epoka and 1 year of teaching for long-term assignments.\
+* **Reports**: Quarterly reports for graduate studies. A final report must be presented one month before the assignment ends.\
+* **Repayment**: If a staff member leaves before finishing compulsory service, they must repay the scholarship/remuneration received.\
+\
+---\
+\
+## 4. Directive on the Exam Board (EU-DIR-020-EN)\
+**Objective**: Ensuring the quality of examinations through monitoring and evaluation.\
+\
+### Key Definitions (Art. 3)\
+* **Additional Exam**: For students at the graduation stage with FD/FF in max two courses and CGPA < 2.00.\
+* **Resit Exam**: Organized after final exams for students needing to improve failing grades.\
+* **Final Exam**: Written/completed assessment after the last day of classes.\
+\
+### Responsibilities (Art. 8-9)\
+* **Meetings**: Held regularly to evaluate grade distribution, exam forms, and the quality of tests.\
+* **Fraud**: Monitoring and reporting fraud cases (cheating, plagiarism).\
+* **Reporting**: An annual report is submitted to the Academic Senate covering exam quality and improvement proposals.\
+\
+---\
+\
+## 5. Directive on the Library (EU-DIR-002-EN)\
+**Objective**: Protecting and managing library resources for students and staff.\
+\
+### Rules of Conduct (Art. 4)\
+* **Restrictions**: No food, beverages, or tobacco. Mobile phones must be silenced.\
+* **Guest Use**: Outside users need permission from the Library Administration.\
+* **Damage**: Users are financially liable for damaged or lost resources.\
+\
+### Lending and Penalties (Art. 5-10)\
+* **ID**: University ID is mandatory for borrowing.\
+* **Recalls**: Borrowed items can be recalled at any time and must be returned within **3 days**.\
+* **Sanctions**: Violations lead to a **one-year library ban**, official reports, and disciplinary investigations.\
+\
+---\
+\
+## 6. Promotion of Scientific Publications (EU-DIR-004-EN)\
+**Objective**: Encouraging academic staff to publish under the Epoka University name.\
+\
+### Eligibility and Points (Art. 2-5)\
+* **Affiliation**: Publications must explicitly name Epoka University.\
+* **Commission**: The Publication Promotion and Scientific Activities Support Commission manages rewards.\
+* **Standard Reward**: Journals in Q1, Q2, and Q3 receive points based on Impact Factor ($600 \\times \\text\{Factor\}$ for Q1). Minimum reward is 600 points.\
+* **Limit**: Total annual rewards cannot exceed one month's gross salary.\
+\
+### Mandatory Acknowledgment (Art. 7)\
+* All supported works must include: *"This article/paper/book/chapter was partially/fully supported by research funds from EPOKA University."*\
+\
+---\
+\
+## 7. Directive on the Teaching Load (EU-DIR-011-EN)\
+**Objective**: Defining weekly teaching hours for full-time and adjunct staff.\
+\
+### Weekly Load Calculation (Art. 2)\
+If not defined by contract:\
+* **Rector**: 6 hours.\
+* **Vice-Rector / Dean**: 9 hours.\
+* **Head of Dept / Director**: 12 hours.\
+* **Professors / Lecturers (PhD)**: 16 hours.\
+* **Assistant Lecturers**: 18 hours.\
+\
+### Payment Forms (Art. 3)\
+* **Full-time**: Submit **Lecturer Fee Request Form** monthly to the Department Coordinator.\
+* **Adjunct**: Department Coordinator fills the **Teaching Load Form** monthly.\
+* **Approval**: Requires **University Administrator** approval before processing by Finance.\
+\
+---\
+\
+## 8. Directive on Yunus Center (YCSBS) (EU-DIR-019-EN)\
+**Objective**: Governing the mission and bodies of the Yunus Center for Social Business and Sustainability.\
+\
+### Mission and Governance (Art. 5-12)\
+* **Mission**: Building awareness of social business to address social and environmental issues.\
+* **Director**: Appointed by the Rector for a **3-year term** (renewable).\
+* **Administrative Board (AB)**: Represent at least three base units. Duties include implementing the strategic plan and preparing annual financial reports.\
+\
+### Finance (Art. 13)\
+* The Rector oversees financial management.\
+* Income is distributed between the Center and University based on **Working Capital principles**.\
+\
+---\
+\
+## 9. Data Protection and Privacy Policies (PLC-)\
+**Objective**: Ensuring lawful processing of personal data in compliance with Law No. 124/2024 and GDPR.\
+\
+### Core Principles (Data Protection Art. 4 / Privacy Art. 2)\
+* **Transparency**: Data processed lawfully and fairly.\
+* **Purpose & Minimization**: Collected only for specific reasons; only necessary data is kept.\
+* **Storage**: Data is deleted once the purpose is fulfilled.\
+\
+### Roles and Rights (Art. 3 & 11)\
+* **DPO**: Oversees compliance and handles subject requests.\
+* **Rights**: Right to access, rectify (correct), erase (delete), and data portability.\
+* **Transfers**: International transfers require standard contractual clauses or proof of adequate protection in the recipient country.\
+\
+---\
+\
+## 10. Exam Guidelines (Mid-term, Final, Resit - Pandemic Modalities)\
+**Objective**: Procedures for online and remote exams (EU-GDL-005, 008, 011, 013).\
+\
+### Management of Evidence\
+* **Submission Deadline**: Evidence must be submitted to the Department Coordinator within **5 working days** of grade entry in EIS.\
+* **Documentation Package**:\
+    * Answer keys and signed Grade Lists.\
+    * Signed Attendance List (must note the "Modality" e.g., Online).\
+    * **Digital Proofs**: A CD with exam files, email logs, and online platform screenshots.\
+\
+### Equality (Mid-term Art. 2.1)\
+* Modalities ensure fairness despite the lack of full invigilation and prevent negative impacts from technical issues (internet/power cuts).\
+\
+---\
+\
+## 11. Professional Practice for Professional Master (EU-GDL-004-EN)\
+**Objective**: Regulates the Professional Practice course for PM programs.\
+\
+### Key Roles\
+* **Department Supervisor**: Epoka staff who evaluates the final report.\
+* **Site Supervisor**: External mentor at the organization/company.\
+\
+### Evaluation Criteria\
+* Evaluated on: **Interest in Job**, **Attendance**, and **Performance**.\
+* **Grades**: (A) Excellent, (B) Good, (C) Fair, (D) Poor, (F) Unsatisfactory.\
+\
+---\
+\
+## 12. CCTV System Guidelines\
+**Objective**: Management of campus surveillance for safety and security.\
+\
+### Technical Details\
+* **Infrastructure**: IP network using **Netgear Prosafe FS728TP switches** (24 ports, PoE).\
+* **Software**: **Surveillance Station Client** manages up to 40 cameras.\
+\
+### Data and Access\
+* **Control Room**: Restricted access; staff must be verified.\
+* **Disclosure**: Images only shared with third parties (e.g., Police) for legal/crime investigation reasons.\
+* **Rights**: Subjects can request access to their own recorded images.}
