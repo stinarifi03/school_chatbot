@@ -49,8 +49,8 @@ school-chatbot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/EPK-COURSES/cen352-term-project-2025-26-samuel-troci.git
-   cd cen352-term-project-2025-26-samuel-troci
+   git clone https://github.com/stinarifi03/school_chatbot.git
+   cd school_chatbot
    ```
 
 2. **Create a virtual environment**
